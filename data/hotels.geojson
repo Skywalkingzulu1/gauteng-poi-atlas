@@ -1,0 +1,678 @@
+{
+ "type": "FeatureCollection",
+ "name": "gauteng-hotel",
+ "metadata": {
+  "source": "OpenStreetMap (Geofabrik south-africa-and-lesotho extract)",
+  "license": "ODbL 1.0",
+  "bbox": [
+   27.1,
+   -27.0,
+   29.2,
+   -25.1
+  ],
+  "count": 30,
+  "candidates": 289
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.828556,
+     -26.748849
+    ]
+   },
+   "properties": {
+    "name": "Riverside Sun",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": "Southern Sun",
+    "address": "Emfuleni Drive, Vanderbijlpark, 1900",
+    "website": "https://www.southernsun.com/riverside-sun",
+    "phone": "+27 16 982 7300",
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 601450899
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.030219,
+     -26.29812
+    ]
+   },
+   "properties": {
+    "name": "Thaba Ya Batswana reception",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 615574053
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.363474,
+     -26.235164
+    ]
+   },
+   "properties": {
+    "name": "Hotel Savoy",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": "241 Prince George Avenue",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 626704173
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.047298,
+     -26.200393
+    ]
+   },
+   "properties": {
+    "name": "Rand Inn Hotel",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": "+27 11 336 2735; +27 11 336 2702",
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 766148875
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.051051,
+     -26.195736
+    ]
+   },
+   "properties": {
+    "name": "Maxime Hotel",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 767558897
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.001918,
+     -26.188672
+    ]
+   },
+   "properties": {
+    "name": "The View",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": "Molesey Avenue",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 616673805
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.10577,
+     -26.180446
+    ]
+   },
+   "properties": {
+    "name": "Courtyard Hotel Eastgate",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": "Zulberg Close, Bruma Lake, Johannesburg, 2100",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 5490841506
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.031726,
+     -26.170898
+    ]
+   },
+   "properties": {
+    "name": "The Westcliff",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": "Four Seasons",
+    "address": "67 Jan Smuts Avenue, Westcliff, Johannesburg",
+    "website": "https://www.fourseasons.com/johannesburg/",
+    "phone": "+27 11 481 6000",
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 361302115
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.09968,
+     -26.147413
+    ]
+   },
+   "properties": {
+    "name": "Genesis Hospitality",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 1640235369
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.221213,
+     -26.144146
+    ]
+   },
+   "properties": {
+    "name": "D'oreale Grande Hotel",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": null,
+    "website": "http://www.doreale.com/",
+    "phone": "+27119281770",
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 42055866
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.05257,
+     -26.134511
+    ]
+   },
+   "properties": {
+    "name": "Protea Hotels",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 689928267
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.231629,
+     -26.122121
+    ]
+   },
+   "properties": {
+    "name": "Premier Hotel O.R. Tambo",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": "73 Gladiator Street, Johannesburg, 1619",
+    "website": "https://www.premierhotels.co.za/hotels/gauteng/johannesburg/or-tambo-airport/",
+    "phone": "+27 11 393 8000",
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 684717477
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.053621,
+     -26.106658
+    ]
+   },
+   "properties": {
+    "name": "Santon Intercontinental",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 5198186253
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.061394,
+     -26.104238
+    ]
+   },
+   "properties": {
+    "name": "Radisson Blu Sandton",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": "Daisy Street, Johannesburg",
+    "website": null,
+    "phone": "+27 11 245 8000",
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 1765302495
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.058826,
+     -26.098784
+    ]
+   },
+   "properties": {
+    "name": "The Maslow",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": null,
+    "website": "https://www.suninternational.com/maslow/",
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 236677891
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.0786,
+     -26.09259
+    ]
+   },
+   "properties": {
+    "name": "Strathavon Bed and Breakfast",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": "34 Dion Close",
+    "website": null,
+    "phone": "+27114444205",
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 3045188469
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.305739,
+     -26.081759
+    ]
+   },
+   "properties": {
+    "name": "Ikwekwezi Guest Lodge",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": "408 1st Avenue, Bredell, 1619",
+    "website": null,
+    "phone": "+27 11 979 3662",
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 13131318830
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.0536,
+     -26.053347
+    ]
+   },
+   "properties": {
+    "name": "Africlassic Rivonia River Lodge",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": null,
+    "website": "https://www.africlassic.com/the-collection/africlassic-river-lodge-rivonia/",
+    "phone": "+27 11 234 6522; +27 76 192 4566",
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 11232472628
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.781969,
+     -26.022325
+    ]
+   },
+   "properties": {
+    "name": "Forum Homini",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 1358179148
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.123675,
+     -25.98425
+    ]
+   },
+   "properties": {
+    "name": "Premier Hotel Midrand",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": "187 3rd Road, 1686",
+    "website": "https://www.premierhotels.co.za/hotels/gauteng/johannesburg/midrand/",
+    "phone": "+27 10 161 0000",
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 581812016
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.537865,
+     -25.972709
+    ]
+   },
+   "properties": {
+    "name": "Hornbill Lodge",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 5824356851
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.050625,
+     -25.912386
+    ]
+   },
+   "properties": {
+    "name": "Farm Lodge",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 71502317
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.192229,
+     -25.831865
+    ]
+   },
+   "properties": {
+    "name": "Natanja guest house",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 5825371353
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.231467,
+     -25.781855
+    ]
+   },
+   "properties": {
+    "name": "Waterhouse Guest Lodge",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 942348518
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.36058,
+     -25.7632
+    ]
+   },
+   "properties": {
+    "name": "Foundry",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 292280942
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.237214,
+     -25.750947
+    ]
+   },
+   "properties": {
+    "name": "Hotel@Hatfield",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": "1141 Burnett Street, Pretoria",
+    "website": "https://www.hatfieldhotel.co.za/location",
+    "phone": "+27 12 364 0300",
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 6679455444
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.206406,
+     -25.746276
+    ]
+   },
+   "properties": {
+    "name": "Pretoria Hotel",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": "230 Hamilton Street, Pretoria, 0002",
+    "website": "https://thepretoriahotel.com",
+    "phone": "+27 12 341 3473",
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 6898767782
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.990518,
+     -25.578383
+    ]
+   },
+   "properties": {
+    "name": "Dream Motel",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 9560290717
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.403943,
+     -25.377659
+    ]
+   },
+   "properties": {
+    "name": "Halfway There",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": null,
+    "website": "http://www.dinokeng.info/halfway-there.php",
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 310252438
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.382542,
+     -25.334898
+    ]
+   },
+   "properties": {
+    "name": "Siyaya Lodge",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 3206203025
+   }
+  }
+ ]
+}

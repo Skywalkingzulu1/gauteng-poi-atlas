@@ -1,0 +1,4031 @@
+{
+ "type": "FeatureCollection",
+ "name": "gauteng-poi-atlas",
+ "metadata": {
+  "source": "OpenStreetMap via Geofabrik, 2026-11-17 extract",
+  "license": "ODbL 1.0",
+  "generated": "2026-11-18"
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.787429,
+     -26.748262
+    ]
+   },
+   "properties": {
+    "name": "Tuscany On Vaal",
+    "category": "complex",
+    "subtype": "residential",
+    "brand": null,
+    "address": "Northdene Road, Vanderbijlpark, 1911",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 1216976221
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.116413,
+     -26.266301
+    ]
+   },
+   "properties": {
+    "name": "Joheim",
+    "category": "complex",
+    "subtype": "residential",
+    "brand": null,
+    "address": "Saint Aubyn Road, Alberton, 1449",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 246845343
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.013034,
+     -26.207694
+    ]
+   },
+   "properties": {
+    "name": "Kassim Villa",
+    "category": "complex",
+    "subtype": "residential",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 1435033201
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.90133,
+     -26.189098
+    ]
+   },
+   "properties": {
+    "name": "Fluerhof Lifestyle Estate",
+    "category": "complex",
+    "subtype": "residential",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 1567868732
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.971697,
+     -26.18409
+    ]
+   },
+   "properties": {
+    "name": "Donald",
+    "category": "complex",
+    "subtype": "apartments",
+    "brand": null,
+    "address": "Feather Court",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 105514894
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.973253,
+     -26.182395
+    ]
+   },
+   "properties": {
+    "name": "Gerald",
+    "category": "complex",
+    "subtype": "apartments",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 824207467
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.904191,
+     -26.173606
+    ]
+   },
+   "properties": {
+    "name": "Dolphin Place",
+    "category": "complex",
+    "subtype": "residential",
+    "brand": null,
+    "address": "1st Avenue, Roodepoort, 1709",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 1442810348
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.27395,
+     -26.14488
+    ]
+   },
+   "properties": {
+    "name": "Clear Water Estate",
+    "category": "complex",
+    "subtype": "residential",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 137870706
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.235685,
+     -26.105338
+    ]
+   },
+   "properties": {
+    "name": "Eged House",
+    "category": "complex",
+    "subtype": "apartments",
+    "brand": null,
+    "address": "35A Long Street",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 621511569
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.959522,
+     -26.089832
+    ]
+   },
+   "properties": {
+    "name": "White Horse Mews",
+    "category": "complex",
+    "subtype": "residential",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 562485408
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.837245,
+     -26.068693
+    ]
+   },
+   "properties": {
+    "name": "Silver Valley Estate",
+    "category": "complex",
+    "subtype": "residential",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 1365365378
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.083149,
+     -26.027384
+    ]
+   },
+   "properties": {
+    "name": "WATERFALL HILLS MATURE LIFESTYLE ESTATE",
+    "category": "complex",
+    "subtype": "residential",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 1059214754
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.108419,
+     -25.982942
+    ]
+   },
+   "properties": {
+    "name": "Villa Baroque Estate",
+    "category": "complex",
+    "subtype": "residential",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 1068348890
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.123503,
+     -25.884631
+    ]
+   },
+   "properties": {
+    "name": "The Hudsons Residential Complex",
+    "category": "complex",
+    "subtype": "residential",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 1043541590
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.247428,
+     -25.8529
+    ]
+   },
+   "properties": {
+    "name": "Hereford Estate Block 3",
+    "category": "complex",
+    "subtype": "apartments",
+    "brand": null,
+    "address": "Hereford, Centurion, 0157",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 1291072608
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.246917,
+     -25.851673
+    ]
+   },
+   "properties": {
+    "name": "Hereford Estate Block 34",
+    "category": "complex",
+    "subtype": "apartments",
+    "brand": null,
+    "address": "Hereford, Centurion, 0157",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 1291507341
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.246676,
+     -25.850697
+    ]
+   },
+   "properties": {
+    "name": "Hereford Estate Block 67",
+    "category": "complex",
+    "subtype": "apartments",
+    "brand": null,
+    "address": "Hereford, Centurion, 0157",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 1291507363
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.285126,
+     -25.833825
+    ]
+   },
+   "properties": {
+    "name": "Villa Santorini",
+    "category": "complex",
+    "subtype": "residential",
+    "brand": null,
+    "address": "5 Gomdoring Place, Pretoria, 0181",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 464316167
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.294617,
+     -25.798071
+    ]
+   },
+   "properties": {
+    "name": "Villa Serene",
+    "category": "complex",
+    "subtype": "residential",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 1293624638
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.237052,
+     -25.775281
+    ]
+   },
+   "properties": {
+    "name": "Waterkloof on Main",
+    "category": "complex",
+    "subtype": "residential",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 1067205160
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.263995,
+     -25.770899
+    ]
+   },
+   "properties": {
+    "name": "Junction 502 Apartments",
+    "category": "complex",
+    "subtype": "apartments",
+    "brand": null,
+    "address": "502 Atterbury Road, Pretoria, 0081",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 1003402208
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.27431,
+     -25.765222
+    ]
+   },
+   "properties": {
+    "name": "Lynnwood NINE ONE NINE",
+    "category": "complex",
+    "subtype": "residential",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 993975090
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.236898,
+     -25.75898
+    ]
+   },
+   "properties": {
+    "name": "iQ Brooklyn",
+    "category": "complex",
+    "subtype": "apartments",
+    "brand": null,
+    "address": "124 Brooks Street, Pretoria, 0011",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 924140497
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.241311,
+     -25.757101
+    ]
+   },
+   "properties": {
+    "name": "Hillcrest Boulevard II",
+    "category": "complex",
+    "subtype": "apartments",
+    "brand": null,
+    "address": "194 Lunnon Road, Pretoria, 0083",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 924758144
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.239991,
+     -25.753851
+    ]
+   },
+   "properties": {
+    "name": "Du Douth",
+    "category": "complex",
+    "subtype": "apartments",
+    "brand": null,
+    "address": "South Street, Hatfield, Pretoria, 0028",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 924430590
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.238166,
+     -25.749441
+    ]
+   },
+   "properties": {
+    "name": "Upper park",
+    "category": "complex",
+    "subtype": "apartments",
+    "brand": null,
+    "address": "1177 Park Street, Hatfield, Pretoria, 0028",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 924728669
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.21543,
+     -25.746393
+    ]
+   },
+   "properties": {
+    "name": "Fairlane Flats",
+    "category": "complex",
+    "subtype": "apartments",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 932510711
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.140297,
+     -25.730606
+    ]
+   },
+   "properties": {
+    "name": "Stefan's Place",
+    "category": "complex",
+    "subtype": "residential",
+    "brand": null,
+    "address": "731 Norman Eaton Avenue, Pretoria West",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 725373524
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.115694,
+     -25.709321
+    ]
+   },
+   "properties": {
+    "name": "Westview2 Security Estate",
+    "category": "complex",
+    "subtype": "residential",
+    "brand": null,
+    "address": "Pretoria",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 685791088
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.092997,
+     -25.568646
+    ]
+   },
+   "properties": {
+    "name": "Shaka Residences",
+    "category": "complex",
+    "subtype": "residential",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 978875513
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.828556,
+     -26.748849
+    ]
+   },
+   "properties": {
+    "name": "Riverside Sun",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": "Southern Sun",
+    "address": "Emfuleni Drive, Vanderbijlpark, 1900",
+    "website": "https://www.southernsun.com/riverside-sun",
+    "phone": "+27 16 982 7300",
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 601450899
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.030219,
+     -26.29812
+    ]
+   },
+   "properties": {
+    "name": "Thaba Ya Batswana reception",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 615574053
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.363474,
+     -26.235164
+    ]
+   },
+   "properties": {
+    "name": "Hotel Savoy",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": "241 Prince George Avenue",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 626704173
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.047298,
+     -26.200393
+    ]
+   },
+   "properties": {
+    "name": "Rand Inn Hotel",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": "+27 11 336 2735; +27 11 336 2702",
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 766148875
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.051051,
+     -26.195736
+    ]
+   },
+   "properties": {
+    "name": "Maxime Hotel",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 767558897
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.001918,
+     -26.188672
+    ]
+   },
+   "properties": {
+    "name": "The View",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": "Molesey Avenue",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 616673805
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.10577,
+     -26.180446
+    ]
+   },
+   "properties": {
+    "name": "Courtyard Hotel Eastgate",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": "Zulberg Close, Bruma Lake, Johannesburg, 2100",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 5490841506
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.031726,
+     -26.170898
+    ]
+   },
+   "properties": {
+    "name": "The Westcliff",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": "Four Seasons",
+    "address": "67 Jan Smuts Avenue, Westcliff, Johannesburg",
+    "website": "https://www.fourseasons.com/johannesburg/",
+    "phone": "+27 11 481 6000",
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 361302115
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.09968,
+     -26.147413
+    ]
+   },
+   "properties": {
+    "name": "Genesis Hospitality",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 1640235369
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.221213,
+     -26.144146
+    ]
+   },
+   "properties": {
+    "name": "D'oreale Grande Hotel",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": null,
+    "website": "http://www.doreale.com/",
+    "phone": "+27119281770",
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 42055866
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.05257,
+     -26.134511
+    ]
+   },
+   "properties": {
+    "name": "Protea Hotels",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 689928267
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.231629,
+     -26.122121
+    ]
+   },
+   "properties": {
+    "name": "Premier Hotel O.R. Tambo",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": "73 Gladiator Street, Johannesburg, 1619",
+    "website": "https://www.premierhotels.co.za/hotels/gauteng/johannesburg/or-tambo-airport/",
+    "phone": "+27 11 393 8000",
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 684717477
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.053621,
+     -26.106658
+    ]
+   },
+   "properties": {
+    "name": "Santon Intercontinental",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 5198186253
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.061394,
+     -26.104238
+    ]
+   },
+   "properties": {
+    "name": "Radisson Blu Sandton",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": "Daisy Street, Johannesburg",
+    "website": null,
+    "phone": "+27 11 245 8000",
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 1765302495
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.058826,
+     -26.098784
+    ]
+   },
+   "properties": {
+    "name": "The Maslow",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": null,
+    "website": "https://www.suninternational.com/maslow/",
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 236677891
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.0786,
+     -26.09259
+    ]
+   },
+   "properties": {
+    "name": "Strathavon Bed and Breakfast",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": "34 Dion Close",
+    "website": null,
+    "phone": "+27114444205",
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 3045188469
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.305739,
+     -26.081759
+    ]
+   },
+   "properties": {
+    "name": "Ikwekwezi Guest Lodge",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": "408 1st Avenue, Bredell, 1619",
+    "website": null,
+    "phone": "+27 11 979 3662",
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 13131318830
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.0536,
+     -26.053347
+    ]
+   },
+   "properties": {
+    "name": "Africlassic Rivonia River Lodge",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": null,
+    "website": "https://www.africlassic.com/the-collection/africlassic-river-lodge-rivonia/",
+    "phone": "+27 11 234 6522; +27 76 192 4566",
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 11232472628
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.781969,
+     -26.022325
+    ]
+   },
+   "properties": {
+    "name": "Forum Homini",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 1358179148
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.123675,
+     -25.98425
+    ]
+   },
+   "properties": {
+    "name": "Premier Hotel Midrand",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": "187 3rd Road, 1686",
+    "website": "https://www.premierhotels.co.za/hotels/gauteng/johannesburg/midrand/",
+    "phone": "+27 10 161 0000",
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 581812016
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.537865,
+     -25.972709
+    ]
+   },
+   "properties": {
+    "name": "Hornbill Lodge",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 5824356851
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.050625,
+     -25.912386
+    ]
+   },
+   "properties": {
+    "name": "Farm Lodge",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 71502317
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.192229,
+     -25.831865
+    ]
+   },
+   "properties": {
+    "name": "Natanja guest house",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 5825371353
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.231467,
+     -25.781855
+    ]
+   },
+   "properties": {
+    "name": "Waterhouse Guest Lodge",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 942348518
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.36058,
+     -25.7632
+    ]
+   },
+   "properties": {
+    "name": "Foundry",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 292280942
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.237214,
+     -25.750947
+    ]
+   },
+   "properties": {
+    "name": "Hotel@Hatfield",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": "1141 Burnett Street, Pretoria",
+    "website": "https://www.hatfieldhotel.co.za/location",
+    "phone": "+27 12 364 0300",
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 6679455444
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.206406,
+     -25.746276
+    ]
+   },
+   "properties": {
+    "name": "Pretoria Hotel",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": "230 Hamilton Street, Pretoria, 0002",
+    "website": "https://thepretoriahotel.com",
+    "phone": "+27 12 341 3473",
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 6898767782
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.990518,
+     -25.578383
+    ]
+   },
+   "properties": {
+    "name": "Dream Motel",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 9560290717
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.403943,
+     -25.377659
+    ]
+   },
+   "properties": {
+    "name": "Halfway There",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": null,
+    "website": "http://www.dinokeng.info/halfway-there.php",
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 310252438
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.382542,
+     -25.334898
+    ]
+   },
+   "properties": {
+    "name": "Siyaya Lodge",
+    "category": "hotel",
+    "subtype": "hotel",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 3206203025
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.970036,
+     -26.66377
+    ]
+   },
+   "properties": {
+    "name": "Midvaal Private Hospital",
+    "category": "health",
+    "subtype": "hospital",
+    "brand": null,
+    "address": "Cnr Square & Nile Drive, Three Rivers, Vereeniging, 1929",
+    "website": null,
+    "phone": "+27 16 454 6000",
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 791798607
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.850822,
+     -26.314267
+    ]
+   },
+   "properties": {
+    "name": "Lenasia Clinic",
+    "category": "health",
+    "subtype": "hospital",
+    "brand": null,
+    "address": "119 Nirvana Drive, Lenasia, 1821",
+    "website": null,
+    "phone": "+27 11 852 0216; +27 11 852 6073; +27 11 852 6074; +27 11 852 6075",
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 983515222
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.054409,
+     -26.285058
+    ]
+   },
+   "properties": {
+    "name": "Dental Practice",
+    "category": "health",
+    "subtype": "dentist",
+    "brand": null,
+    "address": "18 Sneeuberg Street, The Glens, Johannesburg",
+    "website": null,
+    "phone": "+27 11 682 3205",
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 5952482923
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.000213,
+     -26.274677
+    ]
+   },
+   "properties": {
+    "name": "Vitality Medical Centre",
+    "category": "health",
+    "subtype": "clinic",
+    "brand": null,
+    "address": "184 Columbine Avenue",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 626695630
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.059288,
+     -26.266706
+    ]
+   },
+   "properties": {
+    "name": "Oakdene Optometrists",
+    "category": "health",
+    "subtype": "doctors",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": "+27 11 436 0335",
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 10116723818
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.932587,
+     -26.260119
+    ]
+   },
+   "properties": {
+    "name": "Lilian Ngoyi Community Clinic",
+    "category": "health",
+    "subtype": "hospital",
+    "brand": null,
+    "address": "Chris Hani Road, Johannesburg, 1862",
+    "website": null,
+    "phone": "+27 11 933 0202",
+    "opening_hours": "Mo-Sa 08:00-18:00; Su 00:00-00:00",
+    "osm_type": "node",
+    "osm_id": 1553799893
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.163592,
+     -26.220087
+    ]
+   },
+   "properties": {
+    "name": "Bertha Gxowa Hospital",
+    "category": "health",
+    "subtype": "hospital",
+    "brand": null,
+    "address": "Angus Street, Germiston South, Germiston, 1401",
+    "website": null,
+    "phone": "+27 112787600",
+    "opening_hours": "24/7",
+    "osm_type": "node",
+    "osm_id": 9047984318
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.072841,
+     -26.201997
+    ]
+   },
+   "properties": {
+    "name": "Keen Care Pharmacy",
+    "category": "health",
+    "subtype": "pharmacy",
+    "brand": null,
+    "address": "Commissioner Street",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 5830820026
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.039294,
+     -26.201271
+    ]
+   },
+   "properties": {
+    "name": "Dentist",
+    "category": "health",
+    "subtype": "dentist",
+    "brand": null,
+    "address": "Lilian Ngoyi Street",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 5888497389
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.263956,
+     -26.19033
+    ]
+   },
+   "properties": {
+    "name": "Beyerspark Pharmacy",
+    "category": "health",
+    "subtype": "pharmacy",
+    "brand": null,
+    "address": "Bartlett Road, Johannesburg, 1459",
+    "website": null,
+    "phone": "+27 118944615",
+    "opening_hours": "Mo-Fr 09:00-17:30; Sa 09:00-13:00; Su 09:00-17:30",
+    "osm_type": "way",
+    "osm_id": 635061187
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.048871,
+     -26.189263
+    ]
+   },
+   "properties": {
+    "name": "High Point Dental Clinic",
+    "category": "health",
+    "subtype": "dentist",
+    "brand": null,
+    "address": "Claim Street",
+    "website": null,
+    "phone": "+27 117919013",
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 5861927689
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.049961,
+     -26.185283
+    ]
+   },
+   "properties": {
+    "name": "Netcare Rand Hospital",
+    "category": "health",
+    "subtype": "hospital",
+    "brand": null,
+    "address": "Bruce Street",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 619293878
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.000891,
+     -26.177155
+    ]
+   },
+   "properties": {
+    "name": "Melvile Clinic",
+    "category": "health",
+    "subtype": "hospital",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 791371124
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.329706,
+     -26.173532
+    ]
+   },
+   "properties": {
+    "name": "Mediklin Pharmacy & Medicine",
+    "category": "health",
+    "subtype": "pharmacy",
+    "brand": null,
+    "address": "6th Avenue, Northmead, Benoni, 1501",
+    "website": null,
+    "phone": "+27 11 425 1510",
+    "opening_hours": "Mo-Sa 08:00-21:00; Su 09:00-21:00",
+    "osm_type": "node",
+    "osm_id": 9038311517
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.293169,
+     -26.167827
+    ]
+   },
+   "properties": {
+    "name": "Dr Darryl Margetts Dental Rooms",
+    "category": "health",
+    "subtype": "dentist",
+    "brand": null,
+    "address": "87 Kei Road, Benoni, 1501",
+    "website": null,
+    "phone": "+27 114253143",
+    "opening_hours": "Mo-Th 08:00-17:00; Fr 08:00-13:00",
+    "osm_type": "node",
+    "osm_id": 9038387818
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.096445,
+     -26.160415
+    ]
+   },
+   "properties": {
+    "name": "Linksfield Clinic",
+    "category": "health",
+    "subtype": "hospital",
+    "brand": null,
+    "address": "24 12th Avenue, Orange Goove,Johannesburg, 2119",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 30952455
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.911836,
+     -26.154363
+    ]
+   },
+   "properties": {
+    "name": "Dr Choonara",
+    "category": "health",
+    "subtype": "dentist",
+    "brand": null,
+    "address": "425 Ontdekkers Road",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 8620764270
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.008668,
+     -26.146053
+    ]
+   },
+   "properties": {
+    "name": "Greenside Clinic",
+    "category": "health",
+    "subtype": "clinic",
+    "brand": null,
+    "address": "11 Gleneagles Road, GREENSIDE RANDBURG, 2193",
+    "website": null,
+    "phone": "+27117820004",
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 642305062
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.349259,
+     -26.14168
+    ]
+   },
+   "properties": {
+    "name": "Rynpark 1 Frailcare",
+    "category": "health",
+    "subtype": "doctors",
+    "brand": null,
+    "address": "Parker Street, Rynfield, Benoni, 1501",
+    "website": null,
+    "phone": "+27 11747705",
+    "opening_hours": "24/7",
+    "osm_type": "node",
+    "osm_id": 9038418318
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.424007,
+     -26.140346
+    ]
+   },
+   "properties": {
+    "name": "Nongogo V N Physiotherapy",
+    "category": "health",
+    "subtype": "clinic",
+    "brand": null,
+    "address": "6166 Mocke Street, Daveyton, 1520",
+    "website": null,
+    "phone": "+27 114246864",
+    "opening_hours": "Mo-Su 08:00-20:00",
+    "osm_type": "node",
+    "osm_id": 9048060018
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.18935,
+     -26.139713
+    ]
+   },
+   "properties": {
+    "name": "Harmelia Doctors",
+    "category": "health",
+    "subtype": "doctors",
+    "brand": null,
+    "address": "Shelton Avenue",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 620503139
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.97637,
+     -26.13136
+    ]
+   },
+   "properties": {
+    "name": "Dis-Chem Cresta",
+    "category": "health",
+    "subtype": "pharmacy",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": "Mo-Fr 08:30-19:00; Sa 08:30-18:00; Su 09:00-17:00",
+    "osm_type": "node",
+    "osm_id": 614775482
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.096231,
+     -26.110422
+    ]
+   },
+   "properties": {
+    "name": "8th Avenue Clinic",
+    "category": "health",
+    "subtype": "clinic",
+    "brand": null,
+    "address": "8th Avenue",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 8733666517
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.775452,
+     -26.104766
+    ]
+   },
+   "properties": {
+    "name": "Netcare Krugersdorp Hospital",
+    "category": "health",
+    "subtype": "hospital",
+    "brand": null,
+    "address": "9 Burger Street, Krugersdorp, 1739",
+    "website": null,
+    "phone": "+27 119510200",
+    "opening_hours": "24/7",
+    "osm_type": "way",
+    "osm_id": 789847582
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.805609,
+     -26.0973
+    ]
+   },
+   "properties": {
+    "name": "Ampath - Krugersdorp Bell street",
+    "category": "health",
+    "subtype": "clinic",
+    "brand": null,
+    "address": "210 Bell Drive, Krugersdorp, 1746",
+    "website": null,
+    "phone": "+27 119544044",
+    "opening_hours": "24/7",
+    "osm_type": "node",
+    "osm_id": 9041298617
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.004463,
+     -26.097254
+    ]
+   },
+   "properties": {
+    "name": "Dr CL Joannou",
+    "category": "health",
+    "subtype": "dentist",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 685705149
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.013717,
+     -26.0971
+    ]
+   },
+   "properties": {
+    "name": "Panacea Pharmacy",
+    "category": "health",
+    "subtype": "pharmacy",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 670375547
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.054454,
+     -26.094814
+    ]
+   },
+   "properties": {
+    "name": "Mediclinic Morningside",
+    "category": "health",
+    "subtype": "hospital",
+    "brand": null,
+    "address": "Cnr Midstream Drive Midstream Hill Boulevard,, Midstream Hill, Midstream, 1692",
+    "website": "https://www.mediclinic.co.za/hospitals/Pages/about.aspx?h=16",
+    "phone": "+27 12 6529000",
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 237267827
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.826873,
+     -26.093114
+    ]
+   },
+   "properties": {
+    "name": "Medicross - Rangeview",
+    "category": "health",
+    "subtype": "doctors",
+    "brand": null,
+    "address": "Robert Broom Drive, Krugersdorp, 1739",
+    "website": null,
+    "phone": "+27 119510100",
+    "opening_hours": "Mo-Fr 08:00-17:00; Sa 08:00-12:00",
+    "osm_type": "node",
+    "osm_id": 9041579017
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.804106,
+     -26.081642
+    ]
+   },
+   "properties": {
+    "name": "Dis-Chem Pharmacy - Valley View",
+    "category": "health",
+    "subtype": "pharmacy",
+    "brand": null,
+    "address": "Robert Broom Drive",
+    "website": null,
+    "phone": "+27 106120390",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:30-17:00; Su 08:30-15:00",
+    "osm_type": "node",
+    "osm_id": 9041558917
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.115722,
+     -26.058064
+    ]
+   },
+   "properties": {
+    "name": "Penis Enlargement",
+    "category": "health",
+    "subtype": "clinic",
+    "brand": null,
+    "address": "199 Vanessa Street, Buccleuch, Sandton, 2090",
+    "website": "http://penisenlargement.co.za/",
+    "phone": "+27646081568",
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 14214024448
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.089755,
+     -26.057861
+    ]
+   },
+   "properties": {
+    "name": "Dr. Lino Cericola",
+    "category": "health",
+    "subtype": "dentist",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 873890354
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.067897,
+     -26.035135
+    ]
+   },
+   "properties": {
+    "name": "SILHOUETTE AESTHETIC CLINIC",
+    "category": "health",
+    "subtype": "clinic",
+    "brand": null,
+    "address": "9 Simba Road",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 12045526262
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.205844,
+     -26.008622
+    ]
+   },
+   "properties": {
+    "name": "Life Long Health Suites",
+    "category": "health",
+    "subtype": "pharmacy",
+    "brand": null,
+    "address": "Reverend RTJ Nemane Drive",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 622908237
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.245056,
+     -26.002121
+    ]
+   },
+   "properties": {
+    "name": "Oakmoor Pharmancy",
+    "category": "health",
+    "subtype": "pharmacy",
+    "brand": null,
+    "address": "11 Nyari Street, Sethokga, Tembisa, 1632",
+    "website": null,
+    "phone": "+27 73 594 1643",
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 9060958017
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.100903,
+     -25.859548
+    ]
+   },
+   "properties": {
+    "name": "Raslouw Sub-Acute Hospital",
+    "category": "health",
+    "subtype": "hospital",
+    "brand": null,
+    "address": "433 Lochner Road, Raslouw, 0157",
+    "website": "https://raslouwsh.co.za/",
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 1488480310
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.239079,
+     -25.839226
+    ]
+   },
+   "properties": {
+    "name": "Dr J Cronjé",
+    "category": "health",
+    "subtype": "doctors",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": "+27 126621466",
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 664608446
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.199734,
+     -25.820154
+    ]
+   },
+   "properties": {
+    "name": "Doctors rooms",
+    "category": "health",
+    "subtype": "doctors",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": "+27 126645817",
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 2609126162
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.281298,
+     -25.795001
+    ]
+   },
+   "properties": {
+    "name": "Nagel",
+    "category": "health",
+    "subtype": "dentist",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 290719097
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.293422,
+     -25.789051
+    ]
+   },
+   "properties": {
+    "name": "De La Harpe Antoinette L",
+    "category": "health",
+    "subtype": "doctors",
+    "brand": null,
+    "address": "494 Elsa Olivier Street, Pretoria, 0081",
+    "website": null,
+    "phone": "+27 123611170",
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 7434240286
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.298197,
+     -25.765972
+    ]
+   },
+   "properties": {
+    "name": "Van Heerden",
+    "category": "health",
+    "subtype": "pharmacy",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 28234904
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.090105,
+     -25.763346
+    ]
+   },
+   "properties": {
+    "name": "Kalafong Provincial Tertiary Hospital",
+    "category": "health",
+    "subtype": "hospital",
+    "brand": null,
+    "address": "10 Kalafong Road, Atteridgeville, Pretoria, 0125",
+    "website": null,
+    "phone": "+27 12 318 6814",
+    "opening_hours": "Mo-Su 08:00-20:00",
+    "osm_type": "way",
+    "osm_id": 410867780
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.231337,
+     -25.753314
+    ]
+   },
+   "properties": {
+    "name": "Student Health services",
+    "category": "health",
+    "subtype": "clinic",
+    "brand": null,
+    "address": "357 Elandspoort, Roper Street, Pretoria, 0132",
+    "website": null,
+    "phone": "+27 12 420 2500",
+    "opening_hours": "Mo-Fr 08:00-16:00",
+    "osm_type": "way",
+    "osm_id": 484352680
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.202516,
+     -25.75287
+    ]
+   },
+   "properties": {
+    "name": "Motsaneng Medical Centre",
+    "category": "health",
+    "subtype": "doctors",
+    "brand": null,
+    "address": "Kotze Street, pretoria, 0001",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 9048086818
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.222954,
+     -25.751865
+    ]
+   },
+   "properties": {
+    "name": "Loftus Medical",
+    "category": "health",
+    "subtype": "doctors",
+    "brand": null,
+    "address": "Kirkness Street, Pretoria, 0083",
+    "website": null,
+    "phone": "+27 120720032",
+    "opening_hours": "Mo-Sa 00:00-23:55",
+    "osm_type": "node",
+    "osm_id": 9046229517
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.235437,
+     -25.751265
+    ]
+   },
+   "properties": {
+    "name": "AVIA Occupational Health Care Services",
+    "category": "health",
+    "subtype": "clinic",
+    "brand": null,
+    "address": "484 Hilda Street, Pretoria, 0083",
+    "website": null,
+    "phone": "+27 12 548 0553",
+    "opening_hours": "Mo-Fr 09:00-17:00",
+    "osm_type": "node",
+    "osm_id": 9048230317
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.236151,
+     -25.750594
+    ]
+   },
+   "properties": {
+    "name": "Dr R Abouchabki",
+    "category": "health",
+    "subtype": "doctors",
+    "brand": null,
+    "address": "Burnett Street, Pretoria, 0083",
+    "website": null,
+    "phone": null,
+    "opening_hours": "Mo-Fr 09:00-17:00",
+    "osm_type": "node",
+    "osm_id": 9046373617
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.234517,
+     -25.750316
+    ]
+   },
+   "properties": {
+    "name": "Woolfson's",
+    "category": "health",
+    "subtype": "pharmacy",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 538480071
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.196593,
+     -25.748685
+    ]
+   },
+   "properties": {
+    "name": "F.J. Joubert",
+    "category": "health",
+    "subtype": "dentist",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": "+27 12 322 1380",
+    "opening_hours": "Mo-Fr 08:00-16:00",
+    "osm_type": "node",
+    "osm_id": 9049290317
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.203022,
+     -25.744518
+    ]
+   },
+   "properties": {
+    "name": "Hillcare Womans Clinic",
+    "category": "health",
+    "subtype": "clinic",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 10002143430
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.238131,
+     -25.743328
+    ]
+   },
+   "properties": {
+    "name": "Ampath Laboratories",
+    "category": "health",
+    "subtype": "clinic",
+    "brand": null,
+    "address": "1171 Stanza Bobape Street, Pretoria",
+    "website": "https://www.ampath.co.za",
+    "phone": null,
+    "opening_hours": "Mo-Fr 08:00-16:30",
+    "osm_type": "way",
+    "osm_id": 775973447
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.176667,
+     -25.740984
+    ]
+   },
+   "properties": {
+    "name": "Crescent Clinic",
+    "category": "health",
+    "subtype": "dentist",
+    "brand": null,
+    "address": "370 7th Street, Pretoria",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 615637211
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.192932,
+     -25.739276
+    ]
+   },
+   "properties": {
+    "name": "Gold Diamonds in Teeth",
+    "category": "health",
+    "subtype": "dentist",
+    "brand": null,
+    "address": "Boom Street, Pretoria",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 616822990
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.151788,
+     -25.719406
+    ]
+   },
+   "properties": {
+    "name": "Kramer's Pharmacy",
+    "category": "health",
+    "subtype": "pharmacy",
+    "brand": null,
+    "address": "581 Van der Hoff Road, Pretoria, 0019",
+    "website": "https://kramerspharmacy.co.za/",
+    "phone": "+27 12 377 0251",
+    "opening_hours": "Mo-Sa 08:00-20:00; Su 09:00-20:00; PH 09:00-20:00",
+    "osm_type": "node",
+    "osm_id": 6582453452
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.218495,
+     -25.713286
+    ]
+   },
+   "properties": {
+    "name": "Netcare Moot General",
+    "category": "health",
+    "subtype": "hospital",
+    "brand": null,
+    "address": "572 18th Avenue, Pretoria, 0084",
+    "website": null,
+    "phone": "+27 12 330 8200",
+    "opening_hours": "24/7",
+    "osm_type": "way",
+    "osm_id": 792577524
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.17055,
+     -25.676593
+    ]
+   },
+   "properties": {
+    "name": "Dr. m. Scholtz-Koen",
+    "category": "health",
+    "subtype": "dentist",
+    "brand": null,
+    "address": "243 Burger Street, Pretoria",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 683886314
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.107006,
+     -25.671171
+    ]
+   },
+   "properties": {
+    "name": "Dr R. Madi",
+    "category": "health",
+    "subtype": "doctors",
+    "brand": null,
+    "address": "Pretoria",
+    "website": null,
+    "phone": null,
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa-Su 09:00-14:00",
+    "osm_type": "node",
+    "osm_id": 8440133619
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.107186,
+     -25.665585
+    ]
+   },
+   "properties": {
+    "name": "Karen Park Clinic",
+    "category": "health",
+    "subtype": "clinic",
+    "brand": null,
+    "address": "Heinrich Avenue, Karenpark, Akasia",
+    "website": null,
+    "phone": "+27 12 358 9105",
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 10112774831
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.105361,
+     -25.514864
+    ]
+   },
+   "properties": {
+    "name": "Macheni Medical Centre",
+    "category": "health",
+    "subtype": "doctors",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": "24/7",
+    "osm_type": "node",
+    "osm_id": 9054501417
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.116527,
+     -25.481113
+    ]
+   },
+   "properties": {
+    "name": "Batho Plaza Pharmacy",
+    "category": "health",
+    "subtype": "pharmacy",
+    "brand": null,
+    "address": "16 Deadly Nightshade Street, Soshanguve, 0152",
+    "website": null,
+    "phone": "+27 127900802",
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 9054754517
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.823468,
+     -26.708725
+    ]
+   },
+   "properties": {
+    "name": "Cash Crusaders",
+    "category": "commerce",
+    "subtype": "computer",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 4639199291,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.838328,
+     -26.701348
+    ]
+   },
+   "properties": {
+    "name": "Checkers Hyper",
+    "category": "commerce",
+    "subtype": "supermarket",
+    "brand": "Checkers Hyper",
+    "address": "Hans Strijdom Street, Vanderbijlpark, 1911",
+    "website": "https://www.checkers.co.za/store-directory-and-leaflets/store-details/2206",
+    "phone": "+27 16 910 1420",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 08:00-15:00",
+    "osm_type": "node",
+    "osm_id": 1620351319,
+    "channel": "physical + online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.931311,
+     -26.673496
+    ]
+   },
+   "properties": {
+    "name": "Cash Crusaders-Vereeniging",
+    "category": "commerce",
+    "subtype": "computer",
+    "brand": null,
+    "address": "1939",
+    "website": null,
+    "phone": "+27 164552093",
+    "opening_hours": "Mo-Fr 09:00-17:00; Sa 09:00-18:00",
+    "osm_type": "node",
+    "osm_id": 4620557293,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.180169,
+     -26.345182
+    ]
+   },
+   "properties": {
+    "name": "Builders Warehouse",
+    "category": "commerce",
+    "subtype": "doityourself",
+    "brand": "Builders Warehouse",
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 6271251905,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.153692,
+     -26.330504
+    ]
+   },
+   "properties": {
+    "name": "Shoprite",
+    "category": "commerce",
+    "subtype": "supermarket",
+    "brand": "LiquorShop Shoprite;Shoprite",
+    "address": "Katlehong, 1431",
+    "website": "https://www.shoprite.co.za/store-details/47614",
+    "phone": "+27 11 860 9845",
+    "opening_hours": "Mo-Su 07:00-20:00",
+    "osm_type": "node",
+    "osm_id": 1635045925,
+    "channel": "physical + online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.097841,
+     -26.315336
+    ]
+   },
+   "properties": {
+    "name": "Pick n Pay",
+    "category": "commerce",
+    "subtype": "supermarket",
+    "brand": "Pick n Pay",
+    "address": "Brackenhurst, 1449",
+    "website": null,
+    "phone": "+27 11 867 3800",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa-Su 08:00-18:00",
+    "osm_type": "node",
+    "osm_id": 688532905,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.22505,
+     -26.268375
+    ]
+   },
+   "properties": {
+    "name": "Clicks",
+    "category": "commerce",
+    "subtype": "pharmacy",
+    "brand": "Clicks",
+    "address": null,
+    "website": "https://clicks.co.za/store/Elspark/545",
+    "phone": "+27 11 916 2963; +27 11 916 1007",
+    "opening_hours": "Mo-Fr 09:00-18:00; Sa 08:30-17:00; Su 09:00-17:00",
+    "osm_type": "node",
+    "osm_id": 4306300191,
+    "channel": "physical + online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.049908,
+     -26.26734
+    ]
+   },
+   "properties": {
+    "name": "Woolworths",
+    "category": "commerce",
+    "subtype": "clothes",
+    "brand": "Woolworths",
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 1433615117,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.050182,
+     -26.267258
+    ]
+   },
+   "properties": {
+    "name": "foschini",
+    "category": "commerce",
+    "subtype": "clothes",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 1433614989,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.900763,
+     -26.258961
+    ]
+   },
+   "properties": {
+    "name": "Ackermans",
+    "category": "commerce",
+    "subtype": "clothes",
+    "brand": "Ackermans",
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 1605062053,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.093367,
+     -26.247532
+    ]
+   },
+   "properties": {
+    "name": "Pick n Pay Hypermarket",
+    "category": "commerce",
+    "subtype": "supermarket",
+    "brand": "Pick n Pay Hypermarket",
+    "address": "Linroy Street, Steeledale, 2197",
+    "website": null,
+    "phone": "+27 11 610 5000",
+    "opening_hours": "Mo-Fr 09:00-18:00; Sa 08:00-17:00; Su 09:00-15:00",
+    "osm_type": "node",
+    "osm_id": 1545553250,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.047241,
+     -26.204679
+    ]
+   },
+   "properties": {
+    "name": "Sheet Street",
+    "category": "commerce",
+    "subtype": "houseware",
+    "brand": "Sheet Street",
+    "address": "105 Von Weilligh Street",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 5888379292,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.043163,
+     -26.202932
+    ]
+   },
+   "properties": {
+    "name": "Jet Home",
+    "category": "commerce",
+    "subtype": "houseware",
+    "brand": "Jet",
+    "address": "85 Eloff Street, Johannesburg, 2001",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 10026443874,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.042651,
+     -26.198473
+    ]
+   },
+   "properties": {
+    "name": "CLICKS",
+    "category": "commerce",
+    "subtype": "cosmetics",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 6271252295,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.999379,
+     -26.194754
+    ]
+   },
+   "properties": {
+    "name": "Mr Price",
+    "category": "commerce",
+    "subtype": "clothes",
+    "brand": "Mr Price",
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 1624963773,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.123771,
+     -26.188455
+    ]
+   },
+   "properties": {
+    "name": "Pick n pay",
+    "category": "commerce",
+    "subtype": "supermarket",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 12566086602,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.123132,
+     -26.188329
+    ]
+   },
+   "properties": {
+    "name": "mr price",
+    "category": "commerce",
+    "subtype": "clothes",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 1434394399,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.315716,
+     -26.184768
+    ]
+   },
+   "properties": {
+    "name": "Dis-Chem",
+    "category": "commerce",
+    "subtype": "pharmacy",
+    "brand": "Dis-Chem",
+    "address": "18B Tom Jones Street, Benoni, 1501",
+    "website": "https://www.dischem.co.za/",
+    "phone": "+27 105411472",
+    "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su 09:00-14:00",
+    "osm_type": "node",
+    "osm_id": 9039638932,
+    "channel": "physical + online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.262678,
+     -26.179721
+    ]
+   },
+   "properties": {
+    "name": "Builders Warehouse Boksburg",
+    "category": "commerce",
+    "subtype": "hardware",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 1070342468,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.238544,
+     -26.179649
+    ]
+   },
+   "properties": {
+    "name": "Decathlon",
+    "category": "commerce",
+    "subtype": "sports",
+    "brand": "Decathlon",
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 9575034917,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.909605,
+     -26.173127
+    ]
+   },
+   "properties": {
+    "name": "Cash Crusaders",
+    "category": "commerce",
+    "subtype": "pawnbroker",
+    "brand": "Cash Crusaders",
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 13968065793,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.964819,
+     -26.167456
+    ]
+   },
+   "properties": {
+    "name": "Shoprite",
+    "category": "commerce",
+    "subtype": "supermarket",
+    "brand": "Shoprite",
+    "address": "Johannesburg, 2195",
+    "website": "https://www.shoprite.co.za/store-details/52023",
+    "phone": "+27 11 831 0880",
+    "opening_hours": "Mo-Fr 07:00-20:00; Sa-Su 07:00-18:00",
+    "osm_type": "node",
+    "osm_id": 1654232493,
+    "channel": "physical + online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.076206,
+     -26.157848
+    ]
+   },
+   "properties": {
+    "name": "Spar",
+    "category": "commerce",
+    "subtype": "supermarket",
+    "brand": "Spar",
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 1752278542,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.171685,
+     -26.152411
+    ]
+   },
+   "properties": {
+    "name": "Makro",
+    "category": "commerce",
+    "subtype": "wholesale",
+    "brand": "Makro",
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 531579721,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.861478,
+     -26.141175
+    ]
+   },
+   "properties": {
+    "name": "Checkers Hyper",
+    "category": "commerce",
+    "subtype": "supermarket",
+    "brand": "Checkers Hyper",
+    "address": "Roodepoort, 1734",
+    "website": "https://www.checkers.co.za/store-directory-and-leaflets/store-details/7646",
+    "phone": "+27 11 767 7600",
+    "opening_hours": "Mo-Th 09:00-18:00; Fr 09:00-19:00; Sa 08:00-17:00; Su 09:00-16:00",
+    "osm_type": "node",
+    "osm_id": 1433603604,
+    "channel": "physical + online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.863366,
+     -26.14025
+    ]
+   },
+   "properties": {
+    "name": "Game",
+    "category": "commerce",
+    "subtype": "supermarket",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 1433603609,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.90362,
+     -26.128265
+    ]
+   },
+   "properties": {
+    "name": "Pep Clothing",
+    "category": "commerce",
+    "subtype": "clothes",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 13810686190,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.03319,
+     -26.125163
+    ]
+   },
+   "properties": {
+    "name": "Clicks",
+    "category": "commerce",
+    "subtype": "pharmacy",
+    "brand": "Clicks",
+    "address": null,
+    "website": "https://clicks.co.za/store/Hyde-Park/398",
+    "phone": "+27 11 325 5561; +27 11 325 6452",
+    "opening_hours": "Mo-Sa 09:00-18:00; Su 09:00-15:00",
+    "osm_type": "node",
+    "osm_id": 665139933,
+    "channel": "physical + online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.14435,
+     -26.11924
+    ]
+   },
+   "properties": {
+    "name": "Leroy Merlin",
+    "category": "commerce",
+    "subtype": "doityourself",
+    "brand": "Leroy Merlin",
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 1034850374,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.141614,
+     -26.118376
+    ]
+   },
+   "properties": {
+    "name": "Total Sports",
+    "category": "commerce",
+    "subtype": "clothes",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 833965689,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.890221,
+     -26.112291
+    ]
+   },
+   "properties": {
+    "name": "Decathlon",
+    "category": "commerce",
+    "subtype": "sports",
+    "brand": "Decathlon",
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 1423904130,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.223094,
+     -26.102539
+    ]
+   },
+   "properties": {
+    "name": "Incredible COnnection",
+    "category": "commerce",
+    "subtype": "computer",
+    "brand": null,
+    "address": "Kelvin Drive, Kempton Park, 1619",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 2634960912,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.777493,
+     -26.0985
+    ]
+   },
+   "properties": {
+    "name": "Dis-Chem",
+    "category": "commerce",
+    "subtype": "pharmacy",
+    "brand": "Dis-Chem",
+    "address": "15 Pretoria Street, Krugersdorp, 1739",
+    "website": null,
+    "phone": "+27 119515800",
+    "opening_hours": "Mo-Fr 08:30-19:00; Sa 08:30-17:00; Su 09:00-15:00",
+    "osm_type": "node",
+    "osm_id": 9042672117,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.946326,
+     -26.062627
+    ]
+   },
+   "properties": {
+    "name": "Pick n Pay Hyper",
+    "category": "commerce",
+    "subtype": "supermarket",
+    "brand": "Pick n Pay Hyper",
+    "address": "Randburg, 2194",
+    "website": null,
+    "phone": "+27 11 801 7000",
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa 08:00-18:00; Su 09:00-16:00",
+    "osm_type": "node",
+    "osm_id": 29737548,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.94697,
+     -26.05881
+    ]
+   },
+   "properties": {
+    "name": "Bargain Books",
+    "category": "commerce",
+    "subtype": "books",
+    "brand": "Bargain Books",
+    "address": null,
+    "website": null,
+    "phone": "+27 10 753 2309",
+    "opening_hours": "Mo-Th 09:00-18:00; Fr 09:00-19:00; Sa 09:00-18:00; Su 09:00-15:00",
+    "osm_type": "node",
+    "osm_id": 690824389,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.060614,
+     -26.058167
+    ]
+   },
+   "properties": {
+    "name": "Mr Price Home",
+    "category": "commerce",
+    "subtype": "houseware",
+    "brand": "Mr Price Home",
+    "address": null,
+    "website": "https://www.mrphome.com/",
+    "phone": "+27877542851",
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 10681263076,
+    "channel": "physical + online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.010892,
+     -26.030929
+    ]
+   },
+   "properties": {
+    "name": "Mr Price Ultra",
+    "category": "commerce",
+    "subtype": "clothes",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 1545570731,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.087524,
+     -26.023657
+    ]
+   },
+   "properties": {
+    "name": "Pick n Pay Clothing",
+    "category": "commerce",
+    "subtype": "clothes",
+    "brand": "Pick n Pay Clothing",
+    "address": "Midrand, 2066",
+    "website": null,
+    "phone": "+27 11 899 8609",
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 11831660122,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.088868,
+     -26.022742
+    ]
+   },
+   "properties": {
+    "name": "Checkers",
+    "category": "commerce",
+    "subtype": "supermarket",
+    "brand": "Checkers",
+    "address": "Woodmead Drive, Midrand, 1739",
+    "website": "https://www.checkers.co.za/store-directory-and-leaflets/store-details/38722",
+    "phone": "+27 11 221 8400",
+    "opening_hours": "Mo-Su 08:00-20:00",
+    "osm_type": "node",
+    "osm_id": 5289668005,
+    "channel": "physical + online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.01261,
+     -26.01826
+    ]
+   },
+   "properties": {
+    "name": "Sportsmans Warehouse",
+    "category": "commerce",
+    "subtype": "sports",
+    "brand": "Sportsmans Warehouse",
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 305745808,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.004971,
+     -26.01764
+    ]
+   },
+   "properties": {
+    "name": "Game",
+    "category": "commerce",
+    "subtype": "supermarket",
+    "brand": null,
+    "address": "Fourways Boulevard, Johannesburg, 2055",
+    "website": "https://www.game.co.za/",
+    "phone": "+27861 426 031",
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 305745976,
+    "channel": "physical + online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.108031,
+     -26.014638
+    ]
+   },
+   "properties": {
+    "name": "Sportsmans Warehouse",
+    "category": "commerce",
+    "subtype": "clothes",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 5526801995,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.177875,
+     -26.003193
+    ]
+   },
+   "properties": {
+    "name": "Pick n Pay Express",
+    "category": "commerce",
+    "subtype": "convenience",
+    "brand": "Pick n Pay Express",
+    "address": "Thembisa, 1685",
+    "website": null,
+    "phone": "+27 83 386 9508",
+    "opening_hours": "Mo-Su 00:00-24:00",
+    "osm_type": "node",
+    "osm_id": 12335010023,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.982343,
+     -25.999023
+    ]
+   },
+   "properties": {
+    "name": "Woolworths",
+    "category": "commerce",
+    "subtype": "supermarket",
+    "brand": "Superspar",
+    "address": "Cedar Avenue",
+    "website": "https://www.spar.co.za/",
+    "phone": "+27 11 540 1518",
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 1546964990,
+    "channel": "physical + online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.18644,
+     -25.858214
+    ]
+   },
+   "properties": {
+    "name": "Incredible Connection",
+    "category": "commerce",
+    "subtype": "electronics",
+    "brand": "Incredible Connection",
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 300385937,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.315413,
+     -25.826307
+    ]
+   },
+   "properties": {
+    "name": "Builders Warehouse",
+    "category": "commerce",
+    "subtype": "hardware",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 941959441,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.315101,
+     -25.82421
+    ]
+   },
+   "properties": {
+    "name": "Incredible Connection",
+    "category": "commerce",
+    "subtype": "electronics",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 11878821045,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.311535,
+     -25.823444
+    ]
+   },
+   "properties": {
+    "name": "Bargain Books",
+    "category": "commerce",
+    "subtype": "books",
+    "brand": "Bargain Books",
+    "address": null,
+    "website": null,
+    "phone": "+27 12 997 5148",
+    "opening_hours": "Mo-Sa 09:00-19:00; Su 09:00-17:00",
+    "osm_type": "node",
+    "osm_id": 1960108650,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.092037,
+     -25.811902
+    ]
+   },
+   "properties": {
+    "name": "SPAR",
+    "category": "commerce",
+    "subtype": "supermarket",
+    "brand": null,
+    "address": "381 Willem Erasmus Street, Erasmia, Centurion, 0184",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 991886066,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.281481,
+     -25.765988
+    ]
+   },
+   "properties": {
+    "name": "Mr Price Sport",
+    "category": "commerce",
+    "subtype": "clothes",
+    "brand": "Mr Price Sport",
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 11707776111,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.189554,
+     -25.747679
+    ]
+   },
+   "properties": {
+    "name": "Torga Optical",
+    "category": "commerce",
+    "subtype": "optician",
+    "brand": "Torga Optical",
+    "address": "Pretorius Street",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 5820980562,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.18335,
+     -25.746544
+    ]
+   },
+   "properties": {
+    "name": "Cash Crusaders",
+    "category": "commerce",
+    "subtype": "pawnbroker",
+    "brand": "Cash Crusaders",
+    "address": "0002",
+    "website": null,
+    "phone": "+27 123287143",
+    "opening_hours": "Mo-Fr 09:00-17:00; Sa 09:00-15:00; Su 09:00-13:00",
+    "osm_type": "node",
+    "osm_id": 4614233998,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.19401,
+     -25.74531
+    ]
+   },
+   "properties": {
+    "name": "Foschini",
+    "category": "commerce",
+    "subtype": "clothes",
+    "brand": "Foschini",
+    "address": null,
+    "website": "https://bash.com/store/foschini-sammy-marks-0002/000982",
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 296944688,
+    "channel": "physical + online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.204071,
+     -25.745097
+    ]
+   },
+   "properties": {
+    "name": "Ackermans",
+    "category": "commerce",
+    "subtype": "clothes",
+    "brand": "Ackermans",
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 296944412,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.203823,
+     -25.72353
+    ]
+   },
+   "properties": {
+    "name": "Builders Warehouse",
+    "category": "commerce",
+    "subtype": "doityourself",
+    "brand": "Builders Warehouse",
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 460601896,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.385417,
+     -25.721707
+    ]
+   },
+   "properties": {
+    "name": "Shoprite Mini",
+    "category": "commerce",
+    "subtype": "convenience",
+    "brand": "Shoprite Mini",
+    "address": "Pretoria, 0122",
+    "website": null,
+    "phone": "+27 12 801 9738",
+    "opening_hours": "Mo-Su 08:00-20:00",
+    "osm_type": "node",
+    "osm_id": 12278834699,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.309184,
+     -25.708628
+    ]
+   },
+   "properties": {
+    "name": "Jet Mart",
+    "category": "commerce",
+    "subtype": "clothes",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 1640166120,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.240514,
+     -25.703574
+    ]
+   },
+   "properties": {
+    "name": "Foschini",
+    "category": "commerce",
+    "subtype": "clothes",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 296435237,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.173183,
+     -25.673165
+    ]
+   },
+   "properties": {
+    "name": "Checkers",
+    "category": "commerce",
+    "subtype": "supermarket",
+    "brand": "Checkers",
+    "address": "502 Gerrit Maritz Road, Blaauw Village, Pretoria, 0182",
+    "website": "https://www.checkers.co.za/store-directory-and-leaflets/store-details/7133",
+    "phone": "+27 12 520 0080",
+    "opening_hours": "Mo-Su 08:00-20:00",
+    "osm_type": "node",
+    "osm_id": 1640663592,
+    "channel": "physical + online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.106039,
+     -25.509813
+    ]
+   },
+   "properties": {
+    "name": "ShopRite Usave",
+    "category": "commerce",
+    "subtype": "supermarket",
+    "brand": null,
+    "address": "Mokhetle Drive, 0152",
+    "website": "http://www.ShopRiteUsave.com",
+    "phone": null,
+    "opening_hours": "Mo-Su 08:00-19:00",
+    "osm_type": "node",
+    "osm_id": 8018450585,
+    "channel": "physical + online"
+   }
+  }
+ ]
+}

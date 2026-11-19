@@ -1,0 +1,1398 @@
+{
+ "type": "FeatureCollection",
+ "name": "gauteng-commerce",
+ "metadata": {
+  "source": "OpenStreetMap (Geofabrik south-africa-and-lesotho extract)",
+  "license": "ODbL 1.0",
+  "bbox": [
+   27.1,
+   -27.0,
+   29.2,
+   -25.1
+  ],
+  "count": 60,
+  "candidates": 1194
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.823468,
+     -26.708725
+    ]
+   },
+   "properties": {
+    "name": "Cash Crusaders",
+    "category": "commerce",
+    "subtype": "computer",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 4639199291,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.838328,
+     -26.701348
+    ]
+   },
+   "properties": {
+    "name": "Checkers Hyper",
+    "category": "commerce",
+    "subtype": "supermarket",
+    "brand": "Checkers Hyper",
+    "address": "Hans Strijdom Street, Vanderbijlpark, 1911",
+    "website": "https://www.checkers.co.za/store-directory-and-leaflets/store-details/2206",
+    "phone": "+27 16 910 1420",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 08:00-15:00",
+    "osm_type": "node",
+    "osm_id": 1620351319,
+    "channel": "physical + online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.931311,
+     -26.673496
+    ]
+   },
+   "properties": {
+    "name": "Cash Crusaders-Vereeniging",
+    "category": "commerce",
+    "subtype": "computer",
+    "brand": null,
+    "address": "1939",
+    "website": null,
+    "phone": "+27 164552093",
+    "opening_hours": "Mo-Fr 09:00-17:00; Sa 09:00-18:00",
+    "osm_type": "node",
+    "osm_id": 4620557293,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.180169,
+     -26.345182
+    ]
+   },
+   "properties": {
+    "name": "Builders Warehouse",
+    "category": "commerce",
+    "subtype": "doityourself",
+    "brand": "Builders Warehouse",
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 6271251905,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.153692,
+     -26.330504
+    ]
+   },
+   "properties": {
+    "name": "Shoprite",
+    "category": "commerce",
+    "subtype": "supermarket",
+    "brand": "LiquorShop Shoprite;Shoprite",
+    "address": "Katlehong, 1431",
+    "website": "https://www.shoprite.co.za/store-details/47614",
+    "phone": "+27 11 860 9845",
+    "opening_hours": "Mo-Su 07:00-20:00",
+    "osm_type": "node",
+    "osm_id": 1635045925,
+    "channel": "physical + online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.097841,
+     -26.315336
+    ]
+   },
+   "properties": {
+    "name": "Pick n Pay",
+    "category": "commerce",
+    "subtype": "supermarket",
+    "brand": "Pick n Pay",
+    "address": "Brackenhurst, 1449",
+    "website": null,
+    "phone": "+27 11 867 3800",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa-Su 08:00-18:00",
+    "osm_type": "node",
+    "osm_id": 688532905,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.22505,
+     -26.268375
+    ]
+   },
+   "properties": {
+    "name": "Clicks",
+    "category": "commerce",
+    "subtype": "pharmacy",
+    "brand": "Clicks",
+    "address": null,
+    "website": "https://clicks.co.za/store/Elspark/545",
+    "phone": "+27 11 916 2963; +27 11 916 1007",
+    "opening_hours": "Mo-Fr 09:00-18:00; Sa 08:30-17:00; Su 09:00-17:00",
+    "osm_type": "node",
+    "osm_id": 4306300191,
+    "channel": "physical + online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.049908,
+     -26.26734
+    ]
+   },
+   "properties": {
+    "name": "Woolworths",
+    "category": "commerce",
+    "subtype": "clothes",
+    "brand": "Woolworths",
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 1433615117,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.050182,
+     -26.267258
+    ]
+   },
+   "properties": {
+    "name": "foschini",
+    "category": "commerce",
+    "subtype": "clothes",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 1433614989,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.900763,
+     -26.258961
+    ]
+   },
+   "properties": {
+    "name": "Ackermans",
+    "category": "commerce",
+    "subtype": "clothes",
+    "brand": "Ackermans",
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 1605062053,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.093367,
+     -26.247532
+    ]
+   },
+   "properties": {
+    "name": "Pick n Pay Hypermarket",
+    "category": "commerce",
+    "subtype": "supermarket",
+    "brand": "Pick n Pay Hypermarket",
+    "address": "Linroy Street, Steeledale, 2197",
+    "website": null,
+    "phone": "+27 11 610 5000",
+    "opening_hours": "Mo-Fr 09:00-18:00; Sa 08:00-17:00; Su 09:00-15:00",
+    "osm_type": "node",
+    "osm_id": 1545553250,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.047241,
+     -26.204679
+    ]
+   },
+   "properties": {
+    "name": "Sheet Street",
+    "category": "commerce",
+    "subtype": "houseware",
+    "brand": "Sheet Street",
+    "address": "105 Von Weilligh Street",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 5888379292,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.043163,
+     -26.202932
+    ]
+   },
+   "properties": {
+    "name": "Jet Home",
+    "category": "commerce",
+    "subtype": "houseware",
+    "brand": "Jet",
+    "address": "85 Eloff Street, Johannesburg, 2001",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 10026443874,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.042651,
+     -26.198473
+    ]
+   },
+   "properties": {
+    "name": "CLICKS",
+    "category": "commerce",
+    "subtype": "cosmetics",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 6271252295,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.999379,
+     -26.194754
+    ]
+   },
+   "properties": {
+    "name": "Mr Price",
+    "category": "commerce",
+    "subtype": "clothes",
+    "brand": "Mr Price",
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 1624963773,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.123771,
+     -26.188455
+    ]
+   },
+   "properties": {
+    "name": "Pick n pay",
+    "category": "commerce",
+    "subtype": "supermarket",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 12566086602,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.123132,
+     -26.188329
+    ]
+   },
+   "properties": {
+    "name": "mr price",
+    "category": "commerce",
+    "subtype": "clothes",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 1434394399,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.315716,
+     -26.184768
+    ]
+   },
+   "properties": {
+    "name": "Dis-Chem",
+    "category": "commerce",
+    "subtype": "pharmacy",
+    "brand": "Dis-Chem",
+    "address": "18B Tom Jones Street, Benoni, 1501",
+    "website": "https://www.dischem.co.za/",
+    "phone": "+27 105411472",
+    "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su 09:00-14:00",
+    "osm_type": "node",
+    "osm_id": 9039638932,
+    "channel": "physical + online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.262678,
+     -26.179721
+    ]
+   },
+   "properties": {
+    "name": "Builders Warehouse Boksburg",
+    "category": "commerce",
+    "subtype": "hardware",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 1070342468,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.238544,
+     -26.179649
+    ]
+   },
+   "properties": {
+    "name": "Decathlon",
+    "category": "commerce",
+    "subtype": "sports",
+    "brand": "Decathlon",
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 9575034917,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.909605,
+     -26.173127
+    ]
+   },
+   "properties": {
+    "name": "Cash Crusaders",
+    "category": "commerce",
+    "subtype": "pawnbroker",
+    "brand": "Cash Crusaders",
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 13968065793,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.964819,
+     -26.167456
+    ]
+   },
+   "properties": {
+    "name": "Shoprite",
+    "category": "commerce",
+    "subtype": "supermarket",
+    "brand": "Shoprite",
+    "address": "Johannesburg, 2195",
+    "website": "https://www.shoprite.co.za/store-details/52023",
+    "phone": "+27 11 831 0880",
+    "opening_hours": "Mo-Fr 07:00-20:00; Sa-Su 07:00-18:00",
+    "osm_type": "node",
+    "osm_id": 1654232493,
+    "channel": "physical + online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.076206,
+     -26.157848
+    ]
+   },
+   "properties": {
+    "name": "Spar",
+    "category": "commerce",
+    "subtype": "supermarket",
+    "brand": "Spar",
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 1752278542,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.171685,
+     -26.152411
+    ]
+   },
+   "properties": {
+    "name": "Makro",
+    "category": "commerce",
+    "subtype": "wholesale",
+    "brand": "Makro",
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 531579721,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.861478,
+     -26.141175
+    ]
+   },
+   "properties": {
+    "name": "Checkers Hyper",
+    "category": "commerce",
+    "subtype": "supermarket",
+    "brand": "Checkers Hyper",
+    "address": "Roodepoort, 1734",
+    "website": "https://www.checkers.co.za/store-directory-and-leaflets/store-details/7646",
+    "phone": "+27 11 767 7600",
+    "opening_hours": "Mo-Th 09:00-18:00; Fr 09:00-19:00; Sa 08:00-17:00; Su 09:00-16:00",
+    "osm_type": "node",
+    "osm_id": 1433603604,
+    "channel": "physical + online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.863366,
+     -26.14025
+    ]
+   },
+   "properties": {
+    "name": "Game",
+    "category": "commerce",
+    "subtype": "supermarket",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 1433603609,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.90362,
+     -26.128265
+    ]
+   },
+   "properties": {
+    "name": "Pep Clothing",
+    "category": "commerce",
+    "subtype": "clothes",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 13810686190,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.03319,
+     -26.125163
+    ]
+   },
+   "properties": {
+    "name": "Clicks",
+    "category": "commerce",
+    "subtype": "pharmacy",
+    "brand": "Clicks",
+    "address": null,
+    "website": "https://clicks.co.za/store/Hyde-Park/398",
+    "phone": "+27 11 325 5561; +27 11 325 6452",
+    "opening_hours": "Mo-Sa 09:00-18:00; Su 09:00-15:00",
+    "osm_type": "node",
+    "osm_id": 665139933,
+    "channel": "physical + online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.14435,
+     -26.11924
+    ]
+   },
+   "properties": {
+    "name": "Leroy Merlin",
+    "category": "commerce",
+    "subtype": "doityourself",
+    "brand": "Leroy Merlin",
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 1034850374,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.141614,
+     -26.118376
+    ]
+   },
+   "properties": {
+    "name": "Total Sports",
+    "category": "commerce",
+    "subtype": "clothes",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 833965689,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.890221,
+     -26.112291
+    ]
+   },
+   "properties": {
+    "name": "Decathlon",
+    "category": "commerce",
+    "subtype": "sports",
+    "brand": "Decathlon",
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 1423904130,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.223094,
+     -26.102539
+    ]
+   },
+   "properties": {
+    "name": "Incredible COnnection",
+    "category": "commerce",
+    "subtype": "computer",
+    "brand": null,
+    "address": "Kelvin Drive, Kempton Park, 1619",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 2634960912,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.777493,
+     -26.0985
+    ]
+   },
+   "properties": {
+    "name": "Dis-Chem",
+    "category": "commerce",
+    "subtype": "pharmacy",
+    "brand": "Dis-Chem",
+    "address": "15 Pretoria Street, Krugersdorp, 1739",
+    "website": null,
+    "phone": "+27 119515800",
+    "opening_hours": "Mo-Fr 08:30-19:00; Sa 08:30-17:00; Su 09:00-15:00",
+    "osm_type": "node",
+    "osm_id": 9042672117,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.946326,
+     -26.062627
+    ]
+   },
+   "properties": {
+    "name": "Pick n Pay Hyper",
+    "category": "commerce",
+    "subtype": "supermarket",
+    "brand": "Pick n Pay Hyper",
+    "address": "Randburg, 2194",
+    "website": null,
+    "phone": "+27 11 801 7000",
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa 08:00-18:00; Su 09:00-16:00",
+    "osm_type": "node",
+    "osm_id": 29737548,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.94697,
+     -26.05881
+    ]
+   },
+   "properties": {
+    "name": "Bargain Books",
+    "category": "commerce",
+    "subtype": "books",
+    "brand": "Bargain Books",
+    "address": null,
+    "website": null,
+    "phone": "+27 10 753 2309",
+    "opening_hours": "Mo-Th 09:00-18:00; Fr 09:00-19:00; Sa 09:00-18:00; Su 09:00-15:00",
+    "osm_type": "node",
+    "osm_id": 690824389,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.060614,
+     -26.058167
+    ]
+   },
+   "properties": {
+    "name": "Mr Price Home",
+    "category": "commerce",
+    "subtype": "houseware",
+    "brand": "Mr Price Home",
+    "address": null,
+    "website": "https://www.mrphome.com/",
+    "phone": "+27877542851",
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 10681263076,
+    "channel": "physical + online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.010892,
+     -26.030929
+    ]
+   },
+   "properties": {
+    "name": "Mr Price Ultra",
+    "category": "commerce",
+    "subtype": "clothes",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 1545570731,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.087524,
+     -26.023657
+    ]
+   },
+   "properties": {
+    "name": "Pick n Pay Clothing",
+    "category": "commerce",
+    "subtype": "clothes",
+    "brand": "Pick n Pay Clothing",
+    "address": "Midrand, 2066",
+    "website": null,
+    "phone": "+27 11 899 8609",
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 11831660122,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.088868,
+     -26.022742
+    ]
+   },
+   "properties": {
+    "name": "Checkers",
+    "category": "commerce",
+    "subtype": "supermarket",
+    "brand": "Checkers",
+    "address": "Woodmead Drive, Midrand, 1739",
+    "website": "https://www.checkers.co.za/store-directory-and-leaflets/store-details/38722",
+    "phone": "+27 11 221 8400",
+    "opening_hours": "Mo-Su 08:00-20:00",
+    "osm_type": "node",
+    "osm_id": 5289668005,
+    "channel": "physical + online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.01261,
+     -26.01826
+    ]
+   },
+   "properties": {
+    "name": "Sportsmans Warehouse",
+    "category": "commerce",
+    "subtype": "sports",
+    "brand": "Sportsmans Warehouse",
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 305745808,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.004971,
+     -26.01764
+    ]
+   },
+   "properties": {
+    "name": "Game",
+    "category": "commerce",
+    "subtype": "supermarket",
+    "brand": null,
+    "address": "Fourways Boulevard, Johannesburg, 2055",
+    "website": "https://www.game.co.za/",
+    "phone": "+27861 426 031",
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 305745976,
+    "channel": "physical + online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.108031,
+     -26.014638
+    ]
+   },
+   "properties": {
+    "name": "Sportsmans Warehouse",
+    "category": "commerce",
+    "subtype": "clothes",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 5526801995,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.177875,
+     -26.003193
+    ]
+   },
+   "properties": {
+    "name": "Pick n Pay Express",
+    "category": "commerce",
+    "subtype": "convenience",
+    "brand": "Pick n Pay Express",
+    "address": "Thembisa, 1685",
+    "website": null,
+    "phone": "+27 83 386 9508",
+    "opening_hours": "Mo-Su 00:00-24:00",
+    "osm_type": "node",
+    "osm_id": 12335010023,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.982343,
+     -25.999023
+    ]
+   },
+   "properties": {
+    "name": "Woolworths",
+    "category": "commerce",
+    "subtype": "supermarket",
+    "brand": "Superspar",
+    "address": "Cedar Avenue",
+    "website": "https://www.spar.co.za/",
+    "phone": "+27 11 540 1518",
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 1546964990,
+    "channel": "physical + online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.18644,
+     -25.858214
+    ]
+   },
+   "properties": {
+    "name": "Incredible Connection",
+    "category": "commerce",
+    "subtype": "electronics",
+    "brand": "Incredible Connection",
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 300385937,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.315413,
+     -25.826307
+    ]
+   },
+   "properties": {
+    "name": "Builders Warehouse",
+    "category": "commerce",
+    "subtype": "hardware",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 941959441,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.315101,
+     -25.82421
+    ]
+   },
+   "properties": {
+    "name": "Incredible Connection",
+    "category": "commerce",
+    "subtype": "electronics",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 11878821045,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.311535,
+     -25.823444
+    ]
+   },
+   "properties": {
+    "name": "Bargain Books",
+    "category": "commerce",
+    "subtype": "books",
+    "brand": "Bargain Books",
+    "address": null,
+    "website": null,
+    "phone": "+27 12 997 5148",
+    "opening_hours": "Mo-Sa 09:00-19:00; Su 09:00-17:00",
+    "osm_type": "node",
+    "osm_id": 1960108650,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.092037,
+     -25.811902
+    ]
+   },
+   "properties": {
+    "name": "SPAR",
+    "category": "commerce",
+    "subtype": "supermarket",
+    "brand": null,
+    "address": "381 Willem Erasmus Street, Erasmia, Centurion, 0184",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 991886066,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.281481,
+     -25.765988
+    ]
+   },
+   "properties": {
+    "name": "Mr Price Sport",
+    "category": "commerce",
+    "subtype": "clothes",
+    "brand": "Mr Price Sport",
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 11707776111,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.189554,
+     -25.747679
+    ]
+   },
+   "properties": {
+    "name": "Torga Optical",
+    "category": "commerce",
+    "subtype": "optician",
+    "brand": "Torga Optical",
+    "address": "Pretorius Street",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 5820980562,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.18335,
+     -25.746544
+    ]
+   },
+   "properties": {
+    "name": "Cash Crusaders",
+    "category": "commerce",
+    "subtype": "pawnbroker",
+    "brand": "Cash Crusaders",
+    "address": "0002",
+    "website": null,
+    "phone": "+27 123287143",
+    "opening_hours": "Mo-Fr 09:00-17:00; Sa 09:00-15:00; Su 09:00-13:00",
+    "osm_type": "node",
+    "osm_id": 4614233998,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.19401,
+     -25.74531
+    ]
+   },
+   "properties": {
+    "name": "Foschini",
+    "category": "commerce",
+    "subtype": "clothes",
+    "brand": "Foschini",
+    "address": null,
+    "website": "https://bash.com/store/foschini-sammy-marks-0002/000982",
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 296944688,
+    "channel": "physical + online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.204071,
+     -25.745097
+    ]
+   },
+   "properties": {
+    "name": "Ackermans",
+    "category": "commerce",
+    "subtype": "clothes",
+    "brand": "Ackermans",
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 296944412,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.203823,
+     -25.72353
+    ]
+   },
+   "properties": {
+    "name": "Builders Warehouse",
+    "category": "commerce",
+    "subtype": "doityourself",
+    "brand": "Builders Warehouse",
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 460601896,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.385417,
+     -25.721707
+    ]
+   },
+   "properties": {
+    "name": "Shoprite Mini",
+    "category": "commerce",
+    "subtype": "convenience",
+    "brand": "Shoprite Mini",
+    "address": "Pretoria, 0122",
+    "website": null,
+    "phone": "+27 12 801 9738",
+    "opening_hours": "Mo-Su 08:00-20:00",
+    "osm_type": "node",
+    "osm_id": 12278834699,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.309184,
+     -25.708628
+    ]
+   },
+   "properties": {
+    "name": "Jet Mart",
+    "category": "commerce",
+    "subtype": "clothes",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 1640166120,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.240514,
+     -25.703574
+    ]
+   },
+   "properties": {
+    "name": "Foschini",
+    "category": "commerce",
+    "subtype": "clothes",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 296435237,
+    "channel": "physical"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.173183,
+     -25.673165
+    ]
+   },
+   "properties": {
+    "name": "Checkers",
+    "category": "commerce",
+    "subtype": "supermarket",
+    "brand": "Checkers",
+    "address": "502 Gerrit Maritz Road, Blaauw Village, Pretoria, 0182",
+    "website": "https://www.checkers.co.za/store-directory-and-leaflets/store-details/7133",
+    "phone": "+27 12 520 0080",
+    "opening_hours": "Mo-Su 08:00-20:00",
+    "osm_type": "node",
+    "osm_id": 1640663592,
+    "channel": "physical + online"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.106039,
+     -25.509813
+    ]
+   },
+   "properties": {
+    "name": "ShopRite Usave",
+    "category": "commerce",
+    "subtype": "supermarket",
+    "brand": null,
+    "address": "Mokhetle Drive, 0152",
+    "website": "http://www.ShopRiteUsave.com",
+    "phone": null,
+    "opening_hours": "Mo-Su 08:00-19:00",
+    "osm_type": "node",
+    "osm_id": 8018450585,
+    "channel": "physical + online"
+   }
+  }
+ ]
+}

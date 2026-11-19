@@ -1,0 +1,678 @@
+{
+ "type": "FeatureCollection",
+ "name": "gauteng-complex",
+ "metadata": {
+  "source": "OpenStreetMap (Geofabrik south-africa-and-lesotho extract)",
+  "license": "ODbL 1.0",
+  "bbox": [
+   27.1,
+   -27.0,
+   29.2,
+   -25.1
+  ],
+  "count": 30,
+  "candidates": 1001
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.787429,
+     -26.748262
+    ]
+   },
+   "properties": {
+    "name": "Tuscany On Vaal",
+    "category": "complex",
+    "subtype": "residential",
+    "brand": null,
+    "address": "Northdene Road, Vanderbijlpark, 1911",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 1216976221
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.116413,
+     -26.266301
+    ]
+   },
+   "properties": {
+    "name": "Joheim",
+    "category": "complex",
+    "subtype": "residential",
+    "brand": null,
+    "address": "Saint Aubyn Road, Alberton, 1449",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 246845343
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.013034,
+     -26.207694
+    ]
+   },
+   "properties": {
+    "name": "Kassim Villa",
+    "category": "complex",
+    "subtype": "residential",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 1435033201
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.90133,
+     -26.189098
+    ]
+   },
+   "properties": {
+    "name": "Fluerhof Lifestyle Estate",
+    "category": "complex",
+    "subtype": "residential",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 1567868732
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.971697,
+     -26.18409
+    ]
+   },
+   "properties": {
+    "name": "Donald",
+    "category": "complex",
+    "subtype": "apartments",
+    "brand": null,
+    "address": "Feather Court",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 105514894
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.973253,
+     -26.182395
+    ]
+   },
+   "properties": {
+    "name": "Gerald",
+    "category": "complex",
+    "subtype": "apartments",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 824207467
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.904191,
+     -26.173606
+    ]
+   },
+   "properties": {
+    "name": "Dolphin Place",
+    "category": "complex",
+    "subtype": "residential",
+    "brand": null,
+    "address": "1st Avenue, Roodepoort, 1709",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 1442810348
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.27395,
+     -26.14488
+    ]
+   },
+   "properties": {
+    "name": "Clear Water Estate",
+    "category": "complex",
+    "subtype": "residential",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 137870706
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.235685,
+     -26.105338
+    ]
+   },
+   "properties": {
+    "name": "Eged House",
+    "category": "complex",
+    "subtype": "apartments",
+    "brand": null,
+    "address": "35A Long Street",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 621511569
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.959522,
+     -26.089832
+    ]
+   },
+   "properties": {
+    "name": "White Horse Mews",
+    "category": "complex",
+    "subtype": "residential",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 562485408
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.837245,
+     -26.068693
+    ]
+   },
+   "properties": {
+    "name": "Silver Valley Estate",
+    "category": "complex",
+    "subtype": "residential",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 1365365378
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.083149,
+     -26.027384
+    ]
+   },
+   "properties": {
+    "name": "WATERFALL HILLS MATURE LIFESTYLE ESTATE",
+    "category": "complex",
+    "subtype": "residential",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 1059214754
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.108419,
+     -25.982942
+    ]
+   },
+   "properties": {
+    "name": "Villa Baroque Estate",
+    "category": "complex",
+    "subtype": "residential",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 1068348890
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.123503,
+     -25.884631
+    ]
+   },
+   "properties": {
+    "name": "The Hudsons Residential Complex",
+    "category": "complex",
+    "subtype": "residential",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 1043541590
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.247428,
+     -25.8529
+    ]
+   },
+   "properties": {
+    "name": "Hereford Estate Block 3",
+    "category": "complex",
+    "subtype": "apartments",
+    "brand": null,
+    "address": "Hereford, Centurion, 0157",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 1291072608
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.246917,
+     -25.851673
+    ]
+   },
+   "properties": {
+    "name": "Hereford Estate Block 34",
+    "category": "complex",
+    "subtype": "apartments",
+    "brand": null,
+    "address": "Hereford, Centurion, 0157",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 1291507341
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.246676,
+     -25.850697
+    ]
+   },
+   "properties": {
+    "name": "Hereford Estate Block 67",
+    "category": "complex",
+    "subtype": "apartments",
+    "brand": null,
+    "address": "Hereford, Centurion, 0157",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 1291507363
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.285126,
+     -25.833825
+    ]
+   },
+   "properties": {
+    "name": "Villa Santorini",
+    "category": "complex",
+    "subtype": "residential",
+    "brand": null,
+    "address": "5 Gomdoring Place, Pretoria, 0181",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 464316167
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.294617,
+     -25.798071
+    ]
+   },
+   "properties": {
+    "name": "Villa Serene",
+    "category": "complex",
+    "subtype": "residential",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 1293624638
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.237052,
+     -25.775281
+    ]
+   },
+   "properties": {
+    "name": "Waterkloof on Main",
+    "category": "complex",
+    "subtype": "residential",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 1067205160
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.263995,
+     -25.770899
+    ]
+   },
+   "properties": {
+    "name": "Junction 502 Apartments",
+    "category": "complex",
+    "subtype": "apartments",
+    "brand": null,
+    "address": "502 Atterbury Road, Pretoria, 0081",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 1003402208
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.27431,
+     -25.765222
+    ]
+   },
+   "properties": {
+    "name": "Lynnwood NINE ONE NINE",
+    "category": "complex",
+    "subtype": "residential",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 993975090
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.236898,
+     -25.75898
+    ]
+   },
+   "properties": {
+    "name": "iQ Brooklyn",
+    "category": "complex",
+    "subtype": "apartments",
+    "brand": null,
+    "address": "124 Brooks Street, Pretoria, 0011",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 924140497
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.241311,
+     -25.757101
+    ]
+   },
+   "properties": {
+    "name": "Hillcrest Boulevard II",
+    "category": "complex",
+    "subtype": "apartments",
+    "brand": null,
+    "address": "194 Lunnon Road, Pretoria, 0083",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 924758144
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.239991,
+     -25.753851
+    ]
+   },
+   "properties": {
+    "name": "Du Douth",
+    "category": "complex",
+    "subtype": "apartments",
+    "brand": null,
+    "address": "South Street, Hatfield, Pretoria, 0028",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 924430590
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.238166,
+     -25.749441
+    ]
+   },
+   "properties": {
+    "name": "Upper park",
+    "category": "complex",
+    "subtype": "apartments",
+    "brand": null,
+    "address": "1177 Park Street, Hatfield, Pretoria, 0028",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 924728669
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.21543,
+     -25.746393
+    ]
+   },
+   "properties": {
+    "name": "Fairlane Flats",
+    "category": "complex",
+    "subtype": "apartments",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 932510711
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.140297,
+     -25.730606
+    ]
+   },
+   "properties": {
+    "name": "Stefan's Place",
+    "category": "complex",
+    "subtype": "residential",
+    "brand": null,
+    "address": "731 Norman Eaton Avenue, Pretoria West",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 725373524
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.115694,
+     -25.709321
+    ]
+   },
+   "properties": {
+    "name": "Westview2 Security Estate",
+    "category": "complex",
+    "subtype": "residential",
+    "brand": null,
+    "address": "Pretoria",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 685791088
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.092997,
+     -25.568646
+    ]
+   },
+   "properties": {
+    "name": "Shaka Residences",
+    "category": "complex",
+    "subtype": "residential",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 978875513
+   }
+  }
+ ]
+}

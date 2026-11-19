@@ -1,0 +1,18 @@
+{
+  "complex": {
+    "emitted": 30,
+    "candidates": 1001
+  },
+  "hotel": {
+    "emitted": 30,
+    "candidates": 289
+  },
+  "health": {
+    "emitted": 60,
+    "candidates": 752
+  },
+  "commerce": {
+    "emitted": 60,
+    "candidates": 1194
+  }
+}

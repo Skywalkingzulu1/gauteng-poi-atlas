@@ -1,0 +1,1338 @@
+{
+ "type": "FeatureCollection",
+ "name": "gauteng-health",
+ "metadata": {
+  "source": "OpenStreetMap (Geofabrik south-africa-and-lesotho extract)",
+  "license": "ODbL 1.0",
+  "bbox": [
+   27.1,
+   -27.0,
+   29.2,
+   -25.1
+  ],
+  "count": 60,
+  "candidates": 752
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.970036,
+     -26.66377
+    ]
+   },
+   "properties": {
+    "name": "Midvaal Private Hospital",
+    "category": "health",
+    "subtype": "hospital",
+    "brand": null,
+    "address": "Cnr Square & Nile Drive, Three Rivers, Vereeniging, 1929",
+    "website": null,
+    "phone": "+27 16 454 6000",
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 791798607
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.850822,
+     -26.314267
+    ]
+   },
+   "properties": {
+    "name": "Lenasia Clinic",
+    "category": "health",
+    "subtype": "hospital",
+    "brand": null,
+    "address": "119 Nirvana Drive, Lenasia, 1821",
+    "website": null,
+    "phone": "+27 11 852 0216; +27 11 852 6073; +27 11 852 6074; +27 11 852 6075",
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 983515222
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.054409,
+     -26.285058
+    ]
+   },
+   "properties": {
+    "name": "Dental Practice",
+    "category": "health",
+    "subtype": "dentist",
+    "brand": null,
+    "address": "18 Sneeuberg Street, The Glens, Johannesburg",
+    "website": null,
+    "phone": "+27 11 682 3205",
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 5952482923
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.000213,
+     -26.274677
+    ]
+   },
+   "properties": {
+    "name": "Vitality Medical Centre",
+    "category": "health",
+    "subtype": "clinic",
+    "brand": null,
+    "address": "184 Columbine Avenue",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 626695630
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.059288,
+     -26.266706
+    ]
+   },
+   "properties": {
+    "name": "Oakdene Optometrists",
+    "category": "health",
+    "subtype": "doctors",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": "+27 11 436 0335",
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 10116723818
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.932587,
+     -26.260119
+    ]
+   },
+   "properties": {
+    "name": "Lilian Ngoyi Community Clinic",
+    "category": "health",
+    "subtype": "hospital",
+    "brand": null,
+    "address": "Chris Hani Road, Johannesburg, 1862",
+    "website": null,
+    "phone": "+27 11 933 0202",
+    "opening_hours": "Mo-Sa 08:00-18:00; Su 00:00-00:00",
+    "osm_type": "node",
+    "osm_id": 1553799893
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.163592,
+     -26.220087
+    ]
+   },
+   "properties": {
+    "name": "Bertha Gxowa Hospital",
+    "category": "health",
+    "subtype": "hospital",
+    "brand": null,
+    "address": "Angus Street, Germiston South, Germiston, 1401",
+    "website": null,
+    "phone": "+27 112787600",
+    "opening_hours": "24/7",
+    "osm_type": "node",
+    "osm_id": 9047984318
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.072841,
+     -26.201997
+    ]
+   },
+   "properties": {
+    "name": "Keen Care Pharmacy",
+    "category": "health",
+    "subtype": "pharmacy",
+    "brand": null,
+    "address": "Commissioner Street",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 5830820026
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.039294,
+     -26.201271
+    ]
+   },
+   "properties": {
+    "name": "Dentist",
+    "category": "health",
+    "subtype": "dentist",
+    "brand": null,
+    "address": "Lilian Ngoyi Street",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 5888497389
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.263956,
+     -26.19033
+    ]
+   },
+   "properties": {
+    "name": "Beyerspark Pharmacy",
+    "category": "health",
+    "subtype": "pharmacy",
+    "brand": null,
+    "address": "Bartlett Road, Johannesburg, 1459",
+    "website": null,
+    "phone": "+27 118944615",
+    "opening_hours": "Mo-Fr 09:00-17:30; Sa 09:00-13:00; Su 09:00-17:30",
+    "osm_type": "way",
+    "osm_id": 635061187
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.048871,
+     -26.189263
+    ]
+   },
+   "properties": {
+    "name": "High Point Dental Clinic",
+    "category": "health",
+    "subtype": "dentist",
+    "brand": null,
+    "address": "Claim Street",
+    "website": null,
+    "phone": "+27 117919013",
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 5861927689
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.049961,
+     -26.185283
+    ]
+   },
+   "properties": {
+    "name": "Netcare Rand Hospital",
+    "category": "health",
+    "subtype": "hospital",
+    "brand": null,
+    "address": "Bruce Street",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 619293878
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.000891,
+     -26.177155
+    ]
+   },
+   "properties": {
+    "name": "Melvile Clinic",
+    "category": "health",
+    "subtype": "hospital",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 791371124
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.329706,
+     -26.173532
+    ]
+   },
+   "properties": {
+    "name": "Mediklin Pharmacy & Medicine",
+    "category": "health",
+    "subtype": "pharmacy",
+    "brand": null,
+    "address": "6th Avenue, Northmead, Benoni, 1501",
+    "website": null,
+    "phone": "+27 11 425 1510",
+    "opening_hours": "Mo-Sa 08:00-21:00; Su 09:00-21:00",
+    "osm_type": "node",
+    "osm_id": 9038311517
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.293169,
+     -26.167827
+    ]
+   },
+   "properties": {
+    "name": "Dr Darryl Margetts Dental Rooms",
+    "category": "health",
+    "subtype": "dentist",
+    "brand": null,
+    "address": "87 Kei Road, Benoni, 1501",
+    "website": null,
+    "phone": "+27 114253143",
+    "opening_hours": "Mo-Th 08:00-17:00; Fr 08:00-13:00",
+    "osm_type": "node",
+    "osm_id": 9038387818
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.096445,
+     -26.160415
+    ]
+   },
+   "properties": {
+    "name": "Linksfield Clinic",
+    "category": "health",
+    "subtype": "hospital",
+    "brand": null,
+    "address": "24 12th Avenue, Orange Goove,Johannesburg, 2119",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 30952455
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.911836,
+     -26.154363
+    ]
+   },
+   "properties": {
+    "name": "Dr Choonara",
+    "category": "health",
+    "subtype": "dentist",
+    "brand": null,
+    "address": "425 Ontdekkers Road",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 8620764270
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.008668,
+     -26.146053
+    ]
+   },
+   "properties": {
+    "name": "Greenside Clinic",
+    "category": "health",
+    "subtype": "clinic",
+    "brand": null,
+    "address": "11 Gleneagles Road, GREENSIDE RANDBURG, 2193",
+    "website": null,
+    "phone": "+27117820004",
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 642305062
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.349259,
+     -26.14168
+    ]
+   },
+   "properties": {
+    "name": "Rynpark 1 Frailcare",
+    "category": "health",
+    "subtype": "doctors",
+    "brand": null,
+    "address": "Parker Street, Rynfield, Benoni, 1501",
+    "website": null,
+    "phone": "+27 11747705",
+    "opening_hours": "24/7",
+    "osm_type": "node",
+    "osm_id": 9038418318
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.424007,
+     -26.140346
+    ]
+   },
+   "properties": {
+    "name": "Nongogo V N Physiotherapy",
+    "category": "health",
+    "subtype": "clinic",
+    "brand": null,
+    "address": "6166 Mocke Street, Daveyton, 1520",
+    "website": null,
+    "phone": "+27 114246864",
+    "opening_hours": "Mo-Su 08:00-20:00",
+    "osm_type": "node",
+    "osm_id": 9048060018
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.18935,
+     -26.139713
+    ]
+   },
+   "properties": {
+    "name": "Harmelia Doctors",
+    "category": "health",
+    "subtype": "doctors",
+    "brand": null,
+    "address": "Shelton Avenue",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 620503139
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.97637,
+     -26.13136
+    ]
+   },
+   "properties": {
+    "name": "Dis-Chem Cresta",
+    "category": "health",
+    "subtype": "pharmacy",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": "Mo-Fr 08:30-19:00; Sa 08:30-18:00; Su 09:00-17:00",
+    "osm_type": "node",
+    "osm_id": 614775482
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.096231,
+     -26.110422
+    ]
+   },
+   "properties": {
+    "name": "8th Avenue Clinic",
+    "category": "health",
+    "subtype": "clinic",
+    "brand": null,
+    "address": "8th Avenue",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 8733666517
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.775452,
+     -26.104766
+    ]
+   },
+   "properties": {
+    "name": "Netcare Krugersdorp Hospital",
+    "category": "health",
+    "subtype": "hospital",
+    "brand": null,
+    "address": "9 Burger Street, Krugersdorp, 1739",
+    "website": null,
+    "phone": "+27 119510200",
+    "opening_hours": "24/7",
+    "osm_type": "way",
+    "osm_id": 789847582
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.805609,
+     -26.0973
+    ]
+   },
+   "properties": {
+    "name": "Ampath - Krugersdorp Bell street",
+    "category": "health",
+    "subtype": "clinic",
+    "brand": null,
+    "address": "210 Bell Drive, Krugersdorp, 1746",
+    "website": null,
+    "phone": "+27 119544044",
+    "opening_hours": "24/7",
+    "osm_type": "node",
+    "osm_id": 9041298617
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.004463,
+     -26.097254
+    ]
+   },
+   "properties": {
+    "name": "Dr CL Joannou",
+    "category": "health",
+    "subtype": "dentist",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 685705149
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.013717,
+     -26.0971
+    ]
+   },
+   "properties": {
+    "name": "Panacea Pharmacy",
+    "category": "health",
+    "subtype": "pharmacy",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 670375547
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.054454,
+     -26.094814
+    ]
+   },
+   "properties": {
+    "name": "Mediclinic Morningside",
+    "category": "health",
+    "subtype": "hospital",
+    "brand": null,
+    "address": "Cnr Midstream Drive Midstream Hill Boulevard,, Midstream Hill, Midstream, 1692",
+    "website": "https://www.mediclinic.co.za/hospitals/Pages/about.aspx?h=16",
+    "phone": "+27 12 6529000",
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 237267827
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.826873,
+     -26.093114
+    ]
+   },
+   "properties": {
+    "name": "Medicross - Rangeview",
+    "category": "health",
+    "subtype": "doctors",
+    "brand": null,
+    "address": "Robert Broom Drive, Krugersdorp, 1739",
+    "website": null,
+    "phone": "+27 119510100",
+    "opening_hours": "Mo-Fr 08:00-17:00; Sa 08:00-12:00",
+    "osm_type": "node",
+    "osm_id": 9041579017
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.804106,
+     -26.081642
+    ]
+   },
+   "properties": {
+    "name": "Dis-Chem Pharmacy - Valley View",
+    "category": "health",
+    "subtype": "pharmacy",
+    "brand": null,
+    "address": "Robert Broom Drive",
+    "website": null,
+    "phone": "+27 106120390",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:30-17:00; Su 08:30-15:00",
+    "osm_type": "node",
+    "osm_id": 9041558917
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.115722,
+     -26.058064
+    ]
+   },
+   "properties": {
+    "name": "Penis Enlargement",
+    "category": "health",
+    "subtype": "clinic",
+    "brand": null,
+    "address": "199 Vanessa Street, Buccleuch, Sandton, 2090",
+    "website": "http://penisenlargement.co.za/",
+    "phone": "+27646081568",
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 14214024448
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.089755,
+     -26.057861
+    ]
+   },
+   "properties": {
+    "name": "Dr. Lino Cericola",
+    "category": "health",
+    "subtype": "dentist",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 873890354
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.067897,
+     -26.035135
+    ]
+   },
+   "properties": {
+    "name": "SILHOUETTE AESTHETIC CLINIC",
+    "category": "health",
+    "subtype": "clinic",
+    "brand": null,
+    "address": "9 Simba Road",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 12045526262
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.205844,
+     -26.008622
+    ]
+   },
+   "properties": {
+    "name": "Life Long Health Suites",
+    "category": "health",
+    "subtype": "pharmacy",
+    "brand": null,
+    "address": "Reverend RTJ Nemane Drive",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 622908237
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.245056,
+     -26.002121
+    ]
+   },
+   "properties": {
+    "name": "Oakmoor Pharmancy",
+    "category": "health",
+    "subtype": "pharmacy",
+    "brand": null,
+    "address": "11 Nyari Street, Sethokga, Tembisa, 1632",
+    "website": null,
+    "phone": "+27 73 594 1643",
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 9060958017
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.100903,
+     -25.859548
+    ]
+   },
+   "properties": {
+    "name": "Raslouw Sub-Acute Hospital",
+    "category": "health",
+    "subtype": "hospital",
+    "brand": null,
+    "address": "433 Lochner Road, Raslouw, 0157",
+    "website": "https://raslouwsh.co.za/",
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 1488480310
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.239079,
+     -25.839226
+    ]
+   },
+   "properties": {
+    "name": "Dr J Cronjé",
+    "category": "health",
+    "subtype": "doctors",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": "+27 126621466",
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 664608446
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.199734,
+     -25.820154
+    ]
+   },
+   "properties": {
+    "name": "Doctors rooms",
+    "category": "health",
+    "subtype": "doctors",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": "+27 126645817",
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 2609126162
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.281298,
+     -25.795001
+    ]
+   },
+   "properties": {
+    "name": "Nagel",
+    "category": "health",
+    "subtype": "dentist",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 290719097
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.293422,
+     -25.789051
+    ]
+   },
+   "properties": {
+    "name": "De La Harpe Antoinette L",
+    "category": "health",
+    "subtype": "doctors",
+    "brand": null,
+    "address": "494 Elsa Olivier Street, Pretoria, 0081",
+    "website": null,
+    "phone": "+27 123611170",
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 7434240286
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.298197,
+     -25.765972
+    ]
+   },
+   "properties": {
+    "name": "Van Heerden",
+    "category": "health",
+    "subtype": "pharmacy",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 28234904
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.090105,
+     -25.763346
+    ]
+   },
+   "properties": {
+    "name": "Kalafong Provincial Tertiary Hospital",
+    "category": "health",
+    "subtype": "hospital",
+    "brand": null,
+    "address": "10 Kalafong Road, Atteridgeville, Pretoria, 0125",
+    "website": null,
+    "phone": "+27 12 318 6814",
+    "opening_hours": "Mo-Su 08:00-20:00",
+    "osm_type": "way",
+    "osm_id": 410867780
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.231337,
+     -25.753314
+    ]
+   },
+   "properties": {
+    "name": "Student Health services",
+    "category": "health",
+    "subtype": "clinic",
+    "brand": null,
+    "address": "357 Elandspoort, Roper Street, Pretoria, 0132",
+    "website": null,
+    "phone": "+27 12 420 2500",
+    "opening_hours": "Mo-Fr 08:00-16:00",
+    "osm_type": "way",
+    "osm_id": 484352680
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.202516,
+     -25.75287
+    ]
+   },
+   "properties": {
+    "name": "Motsaneng Medical Centre",
+    "category": "health",
+    "subtype": "doctors",
+    "brand": null,
+    "address": "Kotze Street, pretoria, 0001",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 9048086818
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.222954,
+     -25.751865
+    ]
+   },
+   "properties": {
+    "name": "Loftus Medical",
+    "category": "health",
+    "subtype": "doctors",
+    "brand": null,
+    "address": "Kirkness Street, Pretoria, 0083",
+    "website": null,
+    "phone": "+27 120720032",
+    "opening_hours": "Mo-Sa 00:00-23:55",
+    "osm_type": "node",
+    "osm_id": 9046229517
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.235437,
+     -25.751265
+    ]
+   },
+   "properties": {
+    "name": "AVIA Occupational Health Care Services",
+    "category": "health",
+    "subtype": "clinic",
+    "brand": null,
+    "address": "484 Hilda Street, Pretoria, 0083",
+    "website": null,
+    "phone": "+27 12 548 0553",
+    "opening_hours": "Mo-Fr 09:00-17:00",
+    "osm_type": "node",
+    "osm_id": 9048230317
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.236151,
+     -25.750594
+    ]
+   },
+   "properties": {
+    "name": "Dr R Abouchabki",
+    "category": "health",
+    "subtype": "doctors",
+    "brand": null,
+    "address": "Burnett Street, Pretoria, 0083",
+    "website": null,
+    "phone": null,
+    "opening_hours": "Mo-Fr 09:00-17:00",
+    "osm_type": "node",
+    "osm_id": 9046373617
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.234517,
+     -25.750316
+    ]
+   },
+   "properties": {
+    "name": "Woolfson's",
+    "category": "health",
+    "subtype": "pharmacy",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 538480071
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.196593,
+     -25.748685
+    ]
+   },
+   "properties": {
+    "name": "F.J. Joubert",
+    "category": "health",
+    "subtype": "dentist",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": "+27 12 322 1380",
+    "opening_hours": "Mo-Fr 08:00-16:00",
+    "osm_type": "node",
+    "osm_id": 9049290317
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.203022,
+     -25.744518
+    ]
+   },
+   "properties": {
+    "name": "Hillcare Womans Clinic",
+    "category": "health",
+    "subtype": "clinic",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 10002143430
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.238131,
+     -25.743328
+    ]
+   },
+   "properties": {
+    "name": "Ampath Laboratories",
+    "category": "health",
+    "subtype": "clinic",
+    "brand": null,
+    "address": "1171 Stanza Bobape Street, Pretoria",
+    "website": "https://www.ampath.co.za",
+    "phone": null,
+    "opening_hours": "Mo-Fr 08:00-16:30",
+    "osm_type": "way",
+    "osm_id": 775973447
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.176667,
+     -25.740984
+    ]
+   },
+   "properties": {
+    "name": "Crescent Clinic",
+    "category": "health",
+    "subtype": "dentist",
+    "brand": null,
+    "address": "370 7th Street, Pretoria",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 615637211
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.192932,
+     -25.739276
+    ]
+   },
+   "properties": {
+    "name": "Gold Diamonds in Teeth",
+    "category": "health",
+    "subtype": "dentist",
+    "brand": null,
+    "address": "Boom Street, Pretoria",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 616822990
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.151788,
+     -25.719406
+    ]
+   },
+   "properties": {
+    "name": "Kramer's Pharmacy",
+    "category": "health",
+    "subtype": "pharmacy",
+    "brand": null,
+    "address": "581 Van der Hoff Road, Pretoria, 0019",
+    "website": "https://kramerspharmacy.co.za/",
+    "phone": "+27 12 377 0251",
+    "opening_hours": "Mo-Sa 08:00-20:00; Su 09:00-20:00; PH 09:00-20:00",
+    "osm_type": "node",
+    "osm_id": 6582453452
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.218495,
+     -25.713286
+    ]
+   },
+   "properties": {
+    "name": "Netcare Moot General",
+    "category": "health",
+    "subtype": "hospital",
+    "brand": null,
+    "address": "572 18th Avenue, Pretoria, 0084",
+    "website": null,
+    "phone": "+27 12 330 8200",
+    "opening_hours": "24/7",
+    "osm_type": "way",
+    "osm_id": 792577524
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.17055,
+     -25.676593
+    ]
+   },
+   "properties": {
+    "name": "Dr. m. Scholtz-Koen",
+    "category": "health",
+    "subtype": "dentist",
+    "brand": null,
+    "address": "243 Burger Street, Pretoria",
+    "website": null,
+    "phone": null,
+    "opening_hours": null,
+    "osm_type": "way",
+    "osm_id": 683886314
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.107006,
+     -25.671171
+    ]
+   },
+   "properties": {
+    "name": "Dr R. Madi",
+    "category": "health",
+    "subtype": "doctors",
+    "brand": null,
+    "address": "Pretoria",
+    "website": null,
+    "phone": null,
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa-Su 09:00-14:00",
+    "osm_type": "node",
+    "osm_id": 8440133619
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.107186,
+     -25.665585
+    ]
+   },
+   "properties": {
+    "name": "Karen Park Clinic",
+    "category": "health",
+    "subtype": "clinic",
+    "brand": null,
+    "address": "Heinrich Avenue, Karenpark, Akasia",
+    "website": null,
+    "phone": "+27 12 358 9105",
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 10112774831
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.105361,
+     -25.514864
+    ]
+   },
+   "properties": {
+    "name": "Macheni Medical Centre",
+    "category": "health",
+    "subtype": "doctors",
+    "brand": null,
+    "address": null,
+    "website": null,
+    "phone": null,
+    "opening_hours": "24/7",
+    "osm_type": "node",
+    "osm_id": 9054501417
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.116527,
+     -25.481113
+    ]
+   },
+   "properties": {
+    "name": "Batho Plaza Pharmacy",
+    "category": "health",
+    "subtype": "pharmacy",
+    "brand": null,
+    "address": "16 Deadly Nightshade Street, Soshanguve, 0152",
+    "website": null,
+    "phone": "+27 127900802",
+    "opening_hours": null,
+    "osm_type": "node",
+    "osm_id": 9054754517
+   }
+  }
+ ]
+}
